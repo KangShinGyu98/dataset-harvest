@@ -78,3 +78,11 @@
 {"source": "openml", "kind": "openml_datasets", "url": "https://www.openml.org/search?type=data&sort=runs&status=active", "status": "ok", "count": 100, "error": null}
 {"source": "aws_open_data", "kind": "aws_registry", "url": "https://registry.opendata.aws/", "status": "ok", "count": 861, "error": null}
 {"source": "worldbank", "kind": "worldbank_data360", "url": "https://data360.worldbank.org/en/search", "status": "ok", "count": 100, "error": null}
+{"source": "ourworldindata", "kind": "owid_explorers", "url": "https://ourworldindata.org/explorers", "status": "ok", "count": 32, "error": null}
+{"source": "ourworldindata", "kind": "owid_topics", "url": "https://ourworldindata.org/#all-topics", "status": "ok", "count": 63, "error": null}
+{"source": "fivethirtyeight", "kind": "csv_index", "url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/index.csv", "status": "ok", "count": 166, "error": null}
+{"source": "kaggle", "kind": "kaggle_datasets", "url": "https://www.kaggle.com/datasets?sort=votes", "status": "ok", "count": 1994, "error": null}
+{"source": "uci", "kind": "uci_datasets", "url": "https://archive.ics.uci.edu/datasets?skip=25&take=25&sort=desc&orderBy=NumHits&search=", "status": "ok", "count": 25, "error": null}
+{"source": "openml", "kind": "openml_datasets", "url": "https://www.openml.org/search?type=data&sort=runs&status=active", "status": "ok", "count": 100, "error": null}
+{"source": "aws_open_data", "kind": "aws_registry", "url": "https://registry.opendata.aws/", "status": "ok", "count": 861, "error": null}
+{"source": "worldbank", "kind": "worldbank_data360", "url": "https://data360.worldbank.org/en/search", "status": "ok", "count": 100, "error": null}

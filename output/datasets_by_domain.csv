@@ -34,10 +34,12 @@ competition,House Price Prediction Challenge,https://www.kaggle.com/datasets/anm
 competition,jigsaw-toxic-comment-classification-challenge,https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge,kaggle
 competition,kaggle_writeups For_Competition.pdf,https://www.kaggle.com/datasets/marianadeem755/kaggle-writeupsfor-competition-pdf,kaggle
 competition,kaggle_writeups_For_Competition.csv,https://www.kaggle.com/datasets/marianadeem755/kaggle-writeups-for-competition-csv,kaggle
+competition,MATH 500: Measuring Mathematical Problem Solving,https://www.kaggle.com/datasets/open-benchmarks/math-500-measuring-mathematical-problem-solving,kaggle
 competition,Netflix Prize data,https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data,kaggle
 competition,Numenta Anomaly Benchmark (NAB),https://www.kaggle.com/datasets/boltzmannbrain/nab,kaggle
 competition,Pokemon- Weedle's Cave,https://www.kaggle.com/datasets/terminus7/pokemon-challenge,kaggle
 competition,Restaurant Recommendation Challenge,https://www.kaggle.com/datasets/mrmorj/restaurant-recommendation-challenge,kaggle
+competition,Sci Code,https://www.kaggle.com/datasets/open-benchmarks/scicode,kaggle
 competition,Semantic Segmentation for Self Driving Cars,https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge,kaggle
 competition,Ubiquant Competition Data in Parquet Format,https://www.kaggle.com/datasets/robikscube/ubiquant-parquet,kaggle
 competition,UCI ML Drug Review dataset,https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018,kaggle
@@ -377,6 +379,8 @@ environment,Wildfire Projections to Support Climate Resilience,https://registry.
 environment,Wind AI Bench,https://registry.opendata.aws/nrel-pds-windai/,aws_open_data
 environment,us-weather-history,https://github.com/fivethirtyeight/data/tree/master/us-weather-history,fivethirtyeight
 environment,weather-check,https://github.com/fivethirtyeight/data/tree/master/weather-check,fivethirtyeight
+environment,1.88 Million US Wildfires,https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires,kaggle
+environment,2016 Global Ecological Footprint,https://www.kaggle.com/datasets/footprintnetwork/ecological-footprint,kaggle
 environment,38-Cloud: Cloud Segmentation in Satellite Images,https://www.kaggle.com/datasets/sorour/38cloud-cloud-segmentation-in-satellite-images,kaggle
 environment,A Large Scale Fish Dataset,https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset,kaggle
 environment,AAU Rain Snow Traffic Surveillance Dataset,https://www.kaggle.com/datasets/aalborguniversity/aau-rainsnow,kaggle
@@ -391,6 +395,7 @@ environment,Air Quality Dataset,https://www.kaggle.com/datasets/fedesoriano/air-
 environment,Air Quality in Madrid (2001-2018),https://www.kaggle.com/datasets/decide-soluciones/air-quality-madrid,kaggle
 environment,Air Quality Index of Bangladesh Dataset,https://www.kaggle.com/datasets/tahmidmir/air-quality-index-of-bangladesh-dataset,kaggle
 environment,"Aircraft Wildlife Strikes, 1990-2015",https://www.kaggle.com/datasets/faa/wildlife-strikes,kaggle
+environment,All Agriculture related Datasets for India,https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india,kaggle
 environment,All Space Missions from 1957,https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957,kaggle
 environment,Appliances Energy Prediction,https://www.kaggle.com/datasets/loveall/appliances-energy-prediction,kaggle
 environment,Arabidopsis thaliana Short Reads,https://www.kaggle.com/datasets/usharengaraju/district-wise-crop-production-statistics,kaggle
@@ -416,8 +421,8 @@ environment,Earthquake dataset,https://www.kaggle.com/datasets/warcoder/earthqua
 environment,Electric Motor Temperature,https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature,kaggle
 environment,Emissions by Country,https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022,kaggle
 environment,Energy consumption of the Netherlands,https://www.kaggle.com/datasets/lucabasa/dutch-energy,kaggle
-environment,Energy Efficiency Dataset,https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset,kaggle
 environment,Exoplanet Hunting in Deep Space,https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data,kaggle
+environment,Fibrosis SMOC2 Raw Counts,https://www.kaggle.com/datasets/usharengaraju/ecological-footprint,kaggle
 environment,FIRE Dataset,https://www.kaggle.com/datasets/phylake1337/fire-dataset,kaggle
 environment,Fires from Space: Australia,https://www.kaggle.com/datasets/carlosparadis/fires-from-space-australia-and-new-zeland,kaggle
 environment,Forest Cover Type Dataset,https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset,kaggle
@@ -460,6 +465,7 @@ environment,Smoke-Fire-Detection-YOLO,https://www.kaggle.com/datasets/sayedgamal
 environment,Solar Power Generation Data,https://www.kaggle.com/datasets/anikannal/solar-power-generation-data,kaggle
 environment,Solar Radiation Prediction,https://www.kaggle.com/datasets/dronio/SolarEnergy,kaggle
 environment,Star Type Classification /NASA,https://www.kaggle.com/datasets/brsdincer/star-type-classification,kaggle
+environment,Temperature change,https://www.kaggle.com/datasets/sevgisarac/temperature-change,kaggle
 environment,Temperature Readings: IOT Devices,https://www.kaggle.com/datasets/atulanandjha/temperature-readings-iot-devices,kaggle
 environment,The Estonia Disaster Passenger List,https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster,kaggle
 environment,Titanic: Machine Learning from Disaster,https://www.kaggle.com/datasets/shuofxz/titanic-machine-learning-from-disaster,kaggle
@@ -469,7 +475,6 @@ environment,US Weather Events (2016 - 2022),https://www.kaggle.com/datasets/sobh
 environment,Water Quality,https://www.kaggle.com/datasets/adityakadiwal/water-potability,kaggle
 environment,Water quality,https://www.kaggle.com/datasets/mssmartypants/water-quality,kaggle
 environment,Water Quality and Potability,https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability,kaggle
-environment,Water Scarcity - Water Footprint,https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsscarcitycsv,kaggle
 environment,Weather Conditions in World War Two,https://www.kaggle.com/datasets/smid80/weatherww2,kaggle
 environment,Weather Data,https://www.kaggle.com/datasets/prasad22/weather-data,kaggle
 environment,Weather Dataset,https://www.kaggle.com/datasets/muthuj7/weather-dataset,kaggle
@@ -528,16 +533,24 @@ finance,World Bank Climate Change Knowledge Portal (CCKP),https://registry.opend
 finance,200+ Financial Indicators of US stocks (2014-2018),https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018,kaggle
 finance,400+ crypto currency pairs at 1-minute resolution,https://www.kaggle.com/datasets/tencars/392-crypto-currency-pairs-at-minute-resolution,kaggle
 finance,A millennium of macroeconomic data,https://www.kaggle.com/datasets/bank-of-england/a-millennium-of-macroeconomic-data,kaggle
+finance,Adidas Sales Dataset,https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset,kaggle
 finance,"Africa Economic, Banking and Systemic Crisis Data",https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data,kaggle
+finance,Airbnb Prices in European Cities,https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities,kaggle
 finance,ALGO TRADING DATA - Nifty 500 intraday data (2026),https://www.kaggle.com/datasets/debashis74017/algo-trading-data-nifty-100-data-with-indicators,kaggle
 finance,All Lending Club loan data,https://www.kaggle.com/datasets/wordsforthewise/lending-club,kaggle
+finance,Amazon Products Sales Dataset 2023,https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset,kaggle
+finance,Amazon Sales Dataset,https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset,kaggle
+finance,Amazon_Sales_Dataset,https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset,kaggle
 finance,"AMEX, NYSE, NASDAQ stock histories",https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histories,kaggle
+finance,Australian Vehicle Prices,https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices,kaggle
+finance,Automobile Sales data,https://www.kaggle.com/datasets/ddosad/auto-sales-data,kaggle
+finance,Avocado Prices,https://www.kaggle.com/datasets/neuromusic/avocado-prices,kaggle
+finance,Bakery Sales,https://www.kaggle.com/datasets/hosubjeong/bakery-sales,kaggle
 finance,Bank Account Fraud Dataset Suite (NeurIPS 2022),https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022,kaggle
 finance,Bank Churn,https://www.kaggle.com/datasets/hardikgarg03/bank-churn,kaggle
 finance,Bank Customer Churn,https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn,kaggle
 finance,Bank Customer Churn Dataset,https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset,kaggle
 finance,Bank Customer Segmentation (1M+ Transactions),https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation,kaggle
-finance,Bank Customers Churn,https://www.kaggle.com/datasets/santoshd3/bank-customers,kaggle
 finance,Bank Loan Status Dataset,https://www.kaggle.com/datasets/zaurbegiev/my-dataset,kaggle
 finance,Bank Marketing,https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing,kaggle
 finance,Bank marketing campaigns dataset Opening Deposit,https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset,kaggle
@@ -549,14 +562,29 @@ finance,Bank Turnover Dataset,https://www.kaggle.com/datasets/barelydedicated/ba
 finance,Bank_Loan_modelling,https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling,kaggle
 finance,Banking Customer Churn Prediction Dataset,https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset,kaggle
 finance,Banking Dataset - Marketing Targets,https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets,kaggle
+finance,Bengaluru House price data,https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data,kaggle
+finance,Big Mart Sales Data,https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data,kaggle
+finance,Bike Sales in Europe,https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe,kaggle
 finance,Bitcoin Blockchain Historical Data,https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain,kaggle
 finance,Bitcoin Historical Data,https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data,kaggle
 finance,Bitcoin Historical Dataset,https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd,kaggle
 finance,BITCOIN Historical Datasets 2018-2026 Binance API,https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024,kaggle
 finance,Bitcoin Price Prediction (Light Weight CSV),https://www.kaggle.com/datasets/team-ai/bitcoin-price-prediction,kaggle
 finance,Bitcoin Tweets,https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets,kaggle
+finance,BMW Global Automotive Sales,https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales,kaggle
+finance,Boston House Prices,https://www.kaggle.com/datasets/vikrishnan/boston-house-prices,kaggle
+finance,Brent Oil Prices,https://www.kaggle.com/datasets/mabusalah/brent-oil-prices,kaggle
+finance,Cafe Sales - Dirty Data for Cleaning Training,https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training,kaggle
 finance,Car Insurance Claim Prediction,https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification,kaggle
+finance,Car sales,https://www.kaggle.com/datasets/gagandeep16/car-sales,kaggle
+finance,"Car Sales Dataset: Model, Features, and Pricing",https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales,kaggle
+finance,Car Sales Report,https://www.kaggle.com/datasets/missionjee/car-sales-report,kaggle
+finance,Chocolate Sales,https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales,kaggle
+finance,Chocolate Sales Data,https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales,kaggle
 finance,Churn for Bank Customers,https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers,kaggle
+finance,Coffee Sales,https://www.kaggle.com/datasets/ihelon/coffee-sales,kaggle
+finance,Coffee Sales Dataset,https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset,kaggle
+finance,Coffee Shop Sales,https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales,kaggle
 finance,Complete Historical Cryptocurrency Financial Data,https://www.kaggle.com/datasets/philmohun/cryptocurrency-financial-data,kaggle
 finance,Credit Card Approval Prediction,https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction,kaggle
 finance,Credit Card customers,https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers,kaggle
@@ -573,17 +601,24 @@ finance,Credit Risk Analysis,https://www.kaggle.com/datasets/ranadeep/credit-ris
 finance,Credit Risk Dataset,https://www.kaggle.com/datasets/laotse/credit-risk-dataset,kaggle
 finance,Credit Risk Dataset,https://www.kaggle.com/datasets/tahmidmir/credit-risk-dataset,kaggle
 finance,Credit score classification,https://www.kaggle.com/datasets/parisrohan/credit-score-classification,kaggle
+finance,Cryptocurrency Historical Prices,https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory,kaggle
 finance,Daily and Intraday Stock Price Data,https://www.kaggle.com/datasets/borismarjanovic/daily-and-intraday-stock-price-data,kaggle
 finance,Daily Financial News for 6000+ Stocks,https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests,kaggle
 finance,Daily Historical Stock Prices (1970 - 2018),https://www.kaggle.com/datasets/ehallmar/daily-historical-stock-prices-1970-2018,kaggle
 finance,Daily News for Stock Market Prediction,https://www.kaggle.com/datasets/aaron7sun/stocknews,kaggle
 finance,Default of Credit Card Clients Dataset,https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset,kaggle
+finance,Diamonds Prices,https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices,kaggle
 finance,DJIA 30 Stock Time Series,https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231,kaggle
+finance,Dummy Marketing and Sales Data,https://www.kaggle.com/datasets/harrimansaragih/dummy-advertising-and-sales-data,kaggle
 finance,E-commerce Business Transaction,https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business,kaggle
+finance,E-Commerce Sales Dataset,https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data,kaggle
 finance,Economic calendar Invest Forex https://t.me/econos,https://www.kaggle.com/datasets/devorvant/economic-calendar,kaggle
+finance,Egg Sales of a local shop for 30 years,https://www.kaggle.com/datasets/kanchana1990/egg-sales-of-a-local-shop-for-30-years,kaggle
+finance,Electronic Products and Pricing Data,https://www.kaggle.com/datasets/datafiniti/electronic-products-prices,kaggle
 finance,EOD data for all Dow Jones stocks,https://www.kaggle.com/datasets/timoboz/stock-data-dow-jones,kaggle
 finance,Ethereum Classic Blockchain,https://www.kaggle.com/datasets/bigquery/crypto-ethereum-classic,kaggle
 finance,EUR USD Forex Pair Historical Data (2002 - 2020),https://www.kaggle.com/datasets/imetomi/eur-usd-forex-pair-historical-data-2002-2019,kaggle
+finance,Europe Bike Store Sales,https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales,kaggle
 finance,Every Cryptocurrency Daily Market Price,https://www.kaggle.com/datasets/jessevent/all-crypto-currencies,kaggle
 finance,Finance and Accounting Courses - Udemy (13K+ course),https://www.kaggle.com/datasets/jilkothari/finance-accounting-courses-udemy-13k-course,kaggle
 finance,Finance Data,https://www.kaggle.com/datasets/nitindatta/finance-data,kaggle
@@ -591,14 +626,32 @@ finance,Financial Distress Prediction,https://www.kaggle.com/datasets/shebrahimi
 finance,Financial Sentiment Analysis,https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis,kaggle
 finance,Financial Transactions Dataset: Analytics,https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets,kaggle
 finance,Financial Tweets,https://www.kaggle.com/datasets/davidwallach/financial-tweets,kaggle
+finance,Flight Price Prediction,https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction,kaggle
+finance,Ford Car Price Prediction,https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction,kaggle
 finance,Fraud Detection,https://www.kaggle.com/datasets/whenamancodes/fraud-detection,kaggle
+finance,Gas Prices in Brazil,https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil,kaggle
 finance,German Credit Risk,https://www.kaggle.com/datasets/uciml/german-credit,kaggle
+finance,Global Food Prices,https://www.kaggle.com/datasets/jboysen/global-food-prices,kaggle
+finance,Gold Price 10 Years 2013-2023,https://www.kaggle.com/datasets/farzadnekouei/gold-price-10-years-20132023,kaggle
+finance,Gold Price Prediction Dataset,https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset,kaggle
+finance,Gold Prices,https://www.kaggle.com/datasets/tunguz/gold-prices,kaggle
 finance,Healthcare Insurance,https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance,kaggle
 finance,HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS,https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis,kaggle
+finance,Historical Sales and Active Inventory,https://www.kaggle.com/datasets/flenderson/sales-analysis,kaggle
 finance,Home Loan Approval,https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval,kaggle
+finance,House Price,https://www.kaggle.com/datasets/juhibhojani/house-price,kaggle
+finance,House Price dataset of India,https://www.kaggle.com/datasets/mohamedafsal007/house-price-dataset-of-india,kaggle
+finance,House Price Prediction,https://www.kaggle.com/datasets/hardikgarg03/house-price-prediction,kaggle
+finance,House price prediction,https://www.kaggle.com/datasets/shree1992/housedata,kaggle
+finance,"House Sales in King County, USA",https://www.kaggle.com/datasets/harlfoxem/housesalesprediction,kaggle
 finance,Huge Stock Market Dataset,https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs,kaggle
 finance,Insurance Data,https://www.kaggle.com/datasets/moneystore/agencyperformance,kaggle
 finance,Insurance Premium Prediction,https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction,kaggle
+finance,Internet Prices around 200+ countries in 2022,https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price,kaggle
+finance,Iowa Liquor Sales,https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales,kaggle
+finance,Laptop Price,https://www.kaggle.com/datasets/muhammetvarl/laptop-price,kaggle
+finance,Laptop Price Prediction using specifications,https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction,kaggle
+finance,Laptop Prices,https://www.kaggle.com/datasets/owm4096/laptop-prices,kaggle
 finance,Lending Club Loan Data,https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv,kaggle
 finance,Loan Approval Classification Dataset,https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data,kaggle
 finance,Loan Data,https://www.kaggle.com/datasets/itssuru/loan-data,kaggle
@@ -610,40 +663,79 @@ finance,Loan Predication,https://www.kaggle.com/datasets/ninzaami/loan-predicati
 finance,Loan Prediction Based on Customer Behavior,https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior,kaggle
 finance,Loan Prediction Problem Dataset,https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset,kaggle
 finance,Loan-Approval-Prediction-Dataset,https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset,kaggle
+finance,Mobile Price Range,https://www.kaggle.com/datasets/ybifoundation/mobile-price-range,kaggle
 finance,Netflix Stock Price Prediction,https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction,kaggle
+finance,Netflix subscription fee in different countries,https://www.kaggle.com/datasets/prasertk/netflix-subscription-price-in-different-countries,kaggle
+finance,New Car Sales in Norway,https://www.kaggle.com/datasets/dmi3kno/newcarsalesnorway,kaggle
 finance,New York Stock Exchange,https://www.kaggle.com/datasets/dgawlik/nyse,kaggle
 finance,NIFTY-50 Stock Market Data (2000 - 2021),https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data,kaggle
+finance,NIFTY-50 Stocks Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset,kaggle
+finance,NSE Stocks Data,https://www.kaggle.com/datasets/minatverma/nse-stocks-data,kaggle
+finance,NYC Property Sales,https://www.kaggle.com/datasets/new-york-city/nyc-property-sales,kaggle
+finance,Online Business Sales 2017-2019,https://www.kaggle.com/datasets/tylermorse/retail-business-sales-20172019,kaggle
 finance,Online Payment Fraud Detection,https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection,kaggle
 finance,Online Payments Fraud Detection Dataset,https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset,kaggle
+finance,Online Sales Dataset - Popular Marketplace Data,https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data,kaggle
+finance,Petrol/Gas Prices Worldwide,https://www.kaggle.com/datasets/zusmani/petrolgas-prices-worldwide,kaggle
+finance,Pharma sales data,https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data,kaggle
+finance,Pizza Restaurant Sales,https://www.kaggle.com/datasets/shilongzhuang/pizza-sales,kaggle
 finance,Population and Net Migration Dataset World Bank,https://www.kaggle.com/datasets/muhammadaammartufail/population-and-net-migration-dataset-world-bank,kaggle
 finance,Predicting Churn for Bank Customers,https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers,kaggle
 finance,Predicting Credit Card Customer Segmentation,https://www.kaggle.com/datasets/thedevastator/predicting-credit-card-customer-attrition-with-m,kaggle
+finance,Real estate price prediction,https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction,kaggle
+finance,Restaurant Sales report,https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report,kaggle
+finance,Retail Sales Dataset,https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset,kaggle
 finance,Retail Transaction Dataset,https://www.kaggle.com/datasets/fahadrehman07/retail-transaction-dataset,kaggle
 finance,S and P 500 stock data,https://www.kaggle.com/datasets/camnugent/sandp500,kaggle
+finance,Sales and Satisfaction,https://www.kaggle.com/datasets/matinmahmoudi/sales-and-satisfaction,kaggle
+finance,Sales Conversion Optimization,https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking,kaggle
+finance,sales dataset,https://www.kaggle.com/datasets/vinothkannaece/sales-dataset,kaggle
+finance,Sales of summer clothes in E-commerce Wish,https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish,kaggle
+finance,Sample Sales Data,https://www.kaggle.com/datasets/kyanyoga/sample-sales-data,kaggle
 finance,Sentiment Analysis for Financial News,https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news,kaggle
 finance,Should This Loan be Approved or Denied?,https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied,kaggle
+finance,Sports Car Prices dataset,https://www.kaggle.com/datasets/rkiattisak/sports-car-prices-dataset,kaggle
 finance,Stock Exchange Data,https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data,kaggle
 finance,"Stock Market Data (NASDAQ, NYSE, S and P500)",https://www.kaggle.com/datasets/paultimothymooney/stock-market-data,kaggle
 finance,Stock Market Dataset,https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset,kaggle
 finance,Stock Market Dataset (NIFTY-500),https://www.kaggle.com/datasets/iamsouravbanerjee/nifty500-stocks-dataset,kaggle
 finance,Stock Market India,https://www.kaggle.com/datasets/hk7797/stock-market-india,kaggle
 finance,Stock-Market Sentiment Dataset,https://www.kaggle.com/datasets/yash612/stockmarket-sentiment-dataset,kaggle
+finance,Supermarket Sales Data,https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data,kaggle
+finance,Supermarket Sales Dataset,https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales,kaggle
+finance,Supermarket store branches sales analysis,https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data,kaggle
+finance,Supermart Grocery Sales - Retail Analytics Dataset,https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset,kaggle
+finance,Superstore Sales,https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales,kaggle
+finance,Superstore Sales,https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales,kaggle
 finance,Synthetic data from a financial payment system,https://www.kaggle.com/datasets/ealaxi/banksim1,kaggle
 finance,Synthetic Financial Datasets For Fraud Detection,https://www.kaggle.com/datasets/ealaxi/paysim1,kaggle
+finance,Tesla share price since it listed,https://www.kaggle.com/datasets/surajjha101/tesla-share-price-for-last-5-years,kaggle
 finance,TESLA Stock Data,https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021,kaggle
 finance,Tesla stock data from 2010 to 2020,https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020,kaggle
 finance,Time Series Forecasting with Yahoo Stock Price,https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price,kaggle
+finance,TOP 50 Cryptocurrencies Historical Prices,https://www.kaggle.com/datasets/odins0n/top-50-cryptocurrency-historical-prices,kaggle
 finance,Toyota Motors Stock Data (1980-2025),https://www.kaggle.com/datasets/mhassansaboor/toyota-motors-stock-data-2980-2024,kaggle
 finance,Travel Insurance,https://www.kaggle.com/datasets/mhdzahier/travel-insurance,kaggle
 finance,Travel Insurance Prediction Data,https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data,kaggle
+finance,Turkish Market Sales Dataset With 9.000+Items,https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items,kaggle
+finance,U.S. Gasoline and Diesel Retail Prices 1995-2021,https://www.kaggle.com/datasets/mruanova/us-gasoline-and-diesel-retail-prices-19952021,kaggle
+finance,Uber and Lyft Cab prices,https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices,kaggle
 finance,US Consumer Finance Complaints,https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints,kaggle
 finance,US Funds dataset from Yahoo Finance,https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs,kaggle
 finance,US historical stock prices with earnings data,https://www.kaggle.com/datasets/tsaustin/us-historical-stock-prices-with-earnings-data,kaggle
+finance,US Stocks Fundamentals (XBRL),https://www.kaggle.com/datasets/usfundamentals/us-stocks-fundamentals,kaggle
+finance,Used Car Price Prediction Dataset,https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset,kaggle
+finance,Used Cars Price Prediction,https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction,kaggle
 finance,Vehicle Insurance Claim Fraud Detection,https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection,kaggle
 finance,Vehicle Insurance Data,https://www.kaggle.com/datasets/imtkaggleteam/vehicle-insurance-data,kaggle
+finance,Vehicle Sales Data,https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data,kaggle
+finance,Walmart Sales,https://www.kaggle.com/datasets/mikhail1681/walmart-sales,kaggle
+finance,Women's Shoe Prices,https://www.kaggle.com/datasets/datafiniti/womens-shoes-prices,kaggle
 finance,World Bank: Education Data,https://www.kaggle.com/datasets/theworldbank/world-bank-intl-education,kaggle
 finance,World Bank: International Debt Data,https://www.kaggle.com/datasets/theworldbank/world-bank-intl-debt,kaggle
 finance,World Stock Prices (Daily Updating),https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating,kaggle
+finance,XAU/USD Gold Price Historical Data (2004-2026),https://www.kaggle.com/datasets/novandraanugrah/xauusd-gold-price-historical-data-2004-2024,kaggle
+finance,ZARA Sales,https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara,kaggle
 finance,"BNG(credit-a,nominal,1000000)",https://www.openml.org/d/124,openml
 finance,"BNG(credit-g,nominal,1000000)",https://www.openml.org/d/126,openml
 finance,credit-approval,https://www.openml.org/d/29,openml
@@ -745,9 +837,13 @@ health,Toxicant Exposures and Responses by Genomic and Epigenomic Regulators of 
 health,UCSC Genome Browser Sequence and Annotations,https://registry.opendata.aws/ucsc-genome-browser/,aws_open_data
 health,University of British Columbia Sunflower Genome Dataset,https://registry.opendata.aws/ubc-sunflower-genome/,aws_open_data
 health,covid-geography,https://github.com/fivethirtyeight/data/tree/master/covid-geography,fivethirtyeight
+health,1000 Cannabis Genomes Project,https://www.kaggle.com/datasets/bigquery/genomics-cannabis,kaggle
+health,2019 Coronavirus dataset (January - February 2020),https://www.kaggle.com/datasets/brendaso/2019-coronavirus-dataset-01212020-01262020,kaggle
 health,[NeurIPS 2020] Data Science for COVID-19 (DS4C),https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset,kaggle
 health,Alzheimer's Disease Dataset,https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset,kaggle
 health,Augmented Alzheimer MRI Dataset,https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset,kaggle
+health,AV: Healthcare Analytics,https://www.kaggle.com/datasets/shivan118/healthcare-analytics,kaggle
+health,AV: Healthcare Analytics II,https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii,kaggle
 health,Br35H:: Brain Tumor Detection 2020,https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection,kaggle
 health,Brain MRI Images for Brain Tumor Detection,https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection,kaggle
 health,Brain MRI segmentation,https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation,kaggle
@@ -773,6 +869,7 @@ health,Cancer Data,https://www.kaggle.com/datasets/erdemtaha/cancer-data,kaggle
 health,Cancer Inhibitors,https://www.kaggle.com/datasets/xiaotawkaggle/inhibitors,kaggle
 health,Cancer Patients Data,https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data,kaggle
 health,Cardiovascular Disease dataset,https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset,kaggle
+health,Cardiovascular Diseases Risk Prediction Dataset,https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset,kaggle
 health,Cardiovascular_Disease_Dataset,https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset,kaggle
 health,CBIS-DDSM: Breast Cancer Image Dataset,https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset,kaggle
 health,Cervical Cancer largest dataset (Sipak Med),https://www.kaggle.com/datasets/prahladmehandiratta/cervical-cancer-largest-dataset-sipakmed,kaggle
@@ -782,6 +879,8 @@ health,Chronic Disease Indicators,https://www.kaggle.com/datasets/cdc/chronic-di
 health,Chronic KIdney Disease dataset,https://www.kaggle.com/datasets/mansoordaku/ckdisease,kaggle
 health,Cirrhosis Patient Survival Prediction,https://www.kaggle.com/datasets/joebeachcapital/cirrhosis-patient-survival-prediction,kaggle
 health,Corn or Maize Leaf Disease Dataset,https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset,kaggle
+health,Coronavirus (covid19) Tweets,https://www.kaggle.com/datasets/smid80/coronavirus-covid19-tweets,kaggle
+health,Coronavirus - Brazil,https://www.kaggle.com/datasets/unanimad/corona-virus-brazil,kaggle
 health,Coronavirus tweets NLP - Text Classification,https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification,kaggle
 health,COVID -19 Coronavirus Pandemic Dataset,https://www.kaggle.com/datasets/whenamancodes/covid-19-coronavirus-pandemic-dataset,kaggle
 health,Covid Cases and Deaths World Wide,https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide,kaggle
@@ -814,6 +913,7 @@ health,COVID-19 World Vaccination Progress,https://www.kaggle.com/datasets/gpred
 health,COVID-19 World Vaccine Adverse Reactions,https://www.kaggle.com/datasets/ayushggarg/covid19-vaccine-adverse-reactions,kaggle
 health,COVID-19 Xray Dataset (Train and Test Sets),https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets,kaggle
 health,COVID-19/SARS B-cell Epitope Prediction,https://www.kaggle.com/datasets/futurecorporation/epitope-prediction,kaggle
+health,COVID19 Tweets,https://www.kaggle.com/datasets/gpreda/covid19-tweets,kaggle
 health,CT Medical Images,https://www.kaggle.com/datasets/kmader/siim-medical-images,kaggle
 health,Death in the United States,https://www.kaggle.com/datasets/cdc/mortality,kaggle
 health,Diabetes,https://www.kaggle.com/datasets/imtkaggleteam/diabetes,kaggle
@@ -832,6 +932,10 @@ health,Disease Prediction Using Machine Learning,https://www.kaggle.com/datasets
 health,Disease Symptom Prediction,https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset,kaggle
 health,Disease Symptoms and Patient Profile Dataset,https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset,kaggle
 health,ECG Heartbeat Categorization Dataset,https://www.kaggle.com/datasets/shayanfazeli/heartbeat,kaggle
+health,EEG Brainwave Dataset: Feeling Emotions,https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions,kaggle
+health,EEG data from basic sensory task in Schizophrenia,https://www.kaggle.com/datasets/broach/button-tone-sz,kaggle
+health,EEG-Alcohol,https://www.kaggle.com/datasets/nnair25/Alcoholics,kaggle
+health,Employee Attrition for Healthcare,https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare,kaggle
 health,Fetal Health Classification,https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification,kaggle
 health,Global Hospital Beds Capacity (for covid-19),https://www.kaggle.com/datasets/ikiulian/global-hospital-beds-capacity-for-covid19,kaggle
 health,Global Trends in Mental Health Disorder,https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder,kaggle
@@ -841,6 +945,7 @@ health,Health Insurance Coverage,https://www.kaggle.com/datasets/hhs/health-insu
 health,Health Insurance Cross Sell Prediction,https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction,kaggle
 health,Health Insurance Marketplace,https://www.kaggle.com/datasets/hhs/health-insurance-marketplace,kaggle
 health,Health Nutrition and Population Statistics,https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-population-statistics,kaggle
+health,Healthcare Dataset,https://www.kaggle.com/datasets/prasad22/healthcare-dataset,kaggle
 health,Heart Attack Dataset,https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid,kaggle
 health,Heart Attack Prediction,https://www.kaggle.com/datasets/imnikhilanand/heart-attack-prediction,kaggle
 health,Heart Attack Risk Prediction Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset,kaggle
@@ -860,6 +965,7 @@ health,Human Stress Detection in and through Sleep,https://www.kaggle.com/datase
 health,Impact of Covid-19 Pandemic on the Global Economy,https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy,kaggle
 health,Indian Liver Patient Records,https://www.kaggle.com/datasets/uciml/indian-liver-patient-records,kaggle
 health,Indicators of Heart Disease (2022 UPDATE),https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease,kaggle
+health,Indonesia-Coronavirus,https://www.kaggle.com/datasets/ardisragen/indonesia-coronavirus-cases,kaggle
 health,Industrial Safety and Health Analytics Database,https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database,kaggle
 health,LA Restaurant and Market Health Data,https://www.kaggle.com/datasets/cityofLA/la-restaurant-market-health-data,kaggle
 health,Latest Covid-19 India Statewise Data,https://www.kaggle.com/datasets/anandhuh/latest-covid19-india-statewise-data,kaggle
@@ -907,6 +1013,7 @@ health,Remote Work and Mental Health,https://www.kaggle.com/datasets/waqi786/rem
 health,Retinal Disease Classification,https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification,kaggle
 health,RNA-seq Airway Data,https://www.kaggle.com/datasets/usharengaraju/indian-women-in-defense,kaggle
 health,Saccharomyces cerevisiae - Yeast Genome,https://www.kaggle.com/datasets/usharengaraju/floodsdamageindia,kaggle
+health,SARS CORONAVIRUS ACCESSION,https://www.kaggle.com/datasets/jamzing/sars-coronavirus-accession,kaggle
 health,Sentiment Analysis for Mental Health,https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health,kaggle
 health,Skin Cancer Dataset,https://www.kaggle.com/datasets/farjanakabirsamanta/skin-cancer-dataset,kaggle
 health,Skin Cancer ISIC,https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic,kaggle
@@ -921,10 +1028,10 @@ health,sRNA sequencing - Brain (GSE75140),https://www.kaggle.com/datasets/ushare
 health,Structural Protein Sequences,https://www.kaggle.com/datasets/shahir/protein-data-set,kaggle
 health,Student Mental health,https://www.kaggle.com/datasets/shariful07/student-mental-health,kaggle
 health,Student Mental Health Survey,https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey,kaggle
-health,Student Sleep Patterns,https://www.kaggle.com/datasets/arsalanjamal002/student-sleep-patterns,kaggle
 health,Thyroid Disease Data,https://www.kaggle.com/datasets/jainaru/thyroid-disease-data,kaggle
 health,Tomato leaf disease detection,https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf,kaggle
 health,Turkey Covid 19 Vaccination Data,https://www.kaggle.com/datasets/omercolakoglu/turkey-covid-19-vaccination-data,kaggle
+health,U.S. Healthcare Data,https://www.kaggle.com/datasets/maheshdadhich/us-healthcare-data,kaggle
 health,UCI Heart Disease Data,https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data,kaggle
 health,US counties COVID 19 dataset,https://www.kaggle.com/datasets/fireballbyedimyrnmom/us-counties-covid-19-dataset,kaggle
 health,US Health Insurance Dataset,https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset,kaggle
@@ -970,6 +1077,7 @@ ml,CMS 2008-2010 Data Entrepreneurs' Synthetic Public Use File (DE-SynPUF) in OM
 ml,Gretel Synthetic Safety Alignment Dataset,https://registry.opendata.aws/gretel-synthetic-safety-alignment-en-v1/,aws_open_data
 ml,Phrase Clustering Dataset (PCD),https://registry.opendata.aws/pcd/,aws_open_data
 ml,RSNA Lumbar Spine Degenerative Classification Dataset (RSNA-LSDD),https://registry.opendata.aws/rsna-lumbar-spine-degenerative-classification-dataset/,aws_open_data
+ml,AAAMLP,https://www.kaggle.com/datasets/abhishek/aaamlp,kaggle
 ml,Anime Recommendation Database 2020,https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020,kaggle
 ml,BI intro to data cleaning eda and machine learning,https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning,kaggle
 ml,Book Recommendation (Good book api),https://www.kaggle.com/datasets/imtkaggleteam/book-recommendation-good-book-api,kaggle
@@ -1169,58 +1277,31 @@ others,world-cup-predictions,https://github.com/fivethirtyeight/data/tree/master
 others,(LoL) League of Legends Ranked Games,https://www.kaggle.com/datasets/datasnaek/league-of-legends,kaggle
 others,(MBTI) Myers-Briggs Personality Type Dataset,https://www.kaggle.com/datasets/datasnaek/mbti-type,kaggle
 others,1 million Sudoku games,https://www.kaggle.com/datasets/bryanpark/sudoku,kaggle
-others,1.3M Linkedin Jobs and Skills (2024),https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024,kaggle
-others,1.6 million UK traffic accidents,https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales,kaggle
-others,1.88 Million US Wildfires,https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires,kaggle
 others,10 Monkey Species,https://www.kaggle.com/datasets/slothkong/10-monkey-species,kaggle
 others,"100,000 UK Used Car Data set",https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes,kaggle
-others,1000 Cannabis Genomes Project,https://www.kaggle.com/datasets/bigquery/genomics-cannabis,kaggle
 others,1000 Netflix Shows,https://www.kaggle.com/datasets/chasewillden/netflix-shows,kaggle
 others,120 years of Olympic history: athletes and results,https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results,kaggle
-others,140k Real and Fake Faces,https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces,kaggle
 others,17K Mobile Strategy Games,https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games,kaggle
-others,"18,393 Pitchfork Reviews",https://www.kaggle.com/datasets/nolanbconaway/pitchfork-data,kaggle
-others,20 Newsgroups,https://www.kaggle.com/datasets/crawford/20-newsgroups,kaggle
-others,"200 Bird Species with 11,788 Images",https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images,kaggle
 others,2015 Flight Delays and Cancellations,https://www.kaggle.com/datasets/usdot/flight-delays,kaggle
-others,2016 Global Ecological Footprint,https://www.kaggle.com/datasets/footprintnetwork/ecological-footprint,kaggle
 others,2016 Parties in New York,https://www.kaggle.com/datasets/somesnm/partynyc,kaggle
-others,2019 Coronavirus dataset (January - February 2020),https://www.kaggle.com/datasets/brendaso/2019-coronavirus-dataset-01212020-01262020,kaggle
 others,2021 Olympics in Tokyo,https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo,kaggle
 others,2021-2022 Football Player Stats,https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats,kaggle
 others,2021-2022 NBA Player Stats,https://www.kaggle.com/datasets/vivovinco/nba-player-stats,kaggle
-others,2022 Russia Ukraine War,https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war,kaggle
 others,2022-2023 Football Player Stats,https://www.kaggle.com/datasets/vivovinco/20222023-football-player-stats,kaggle
 others,2024 Amazon Best Sellers: Top Valentine Gifts,https://www.kaggle.com/datasets/kanchana1990/2024-amazon-best-sellers-top-valentine-gifts,kaggle
 others,20M Rows Fake Turkish Names and Address Dataset,https://www.kaggle.com/datasets/omercolakoglu/10m-rows-fake-turkish-names-and-address-dataset,kaggle
-others,"300 images of squares, circles, and triangles",https://www.kaggle.com/datasets/cactus3/basicshapes,kaggle
 others,30000 Spotify Songs,https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs,kaggle
 others,350 000+ movies from themoviedb.org,https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg,kaggle
-others,3D MNIST,https://www.kaggle.com/datasets/daavoo/3d-mnist,kaggle
-others,5 Celebrity Faces Dataset,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset,kaggle
-others,515K Hotel Reviews Data in Europe,https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe,kaggle
-others,60k Stack Overflow Questions with Quality Rating,https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate,kaggle
 others,60k-data-with-context-v2,https://www.kaggle.com/datasets/cdeotte/60k-data-with-context-v2,kaggle
-others,7+ Million Company Dataset,https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset,kaggle
 others,"7,000 Labeled Pokemon",https://www.kaggle.com/datasets/lantian773030/pokemonclassification,kaggle
 others,80 Cereals,https://www.kaggle.com/datasets/crawford/80-cereals,kaggle
-others,A-Z Handwritten Alphabets in.csv format,https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format,kaggle
 others,A/B test data,https://www.kaggle.com/datasets/sergylog/ab-test-data,kaggle
-others,AAAMLP,https://www.kaggle.com/datasets/abhishek/aaamlp,kaggle
 others,Abalone Dataset,https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset,kaggle
 others,Abstract Art Gallery,https://www.kaggle.com/datasets/bryanb/abstract-art-gallery,kaggle
-others,Accidents in France from 2005 to 2016,https://www.kaggle.com/datasets/ahmedlahlou/accidents-in-france-from-2005-to-2016,kaggle
-others,Adidas Sales Dataset,https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset,kaggle
 others,Advertising Dataset,https://www.kaggle.com/datasets/ashydv/advertising-dataset,kaggle
-others,Aerial Bombing Operations in World War II,https://www.kaggle.com/datasets/usaf/world-war-ii,kaggle
 others,"Age dataset: life, work, and death of 1.22M people",https://www.kaggle.com/datasets/imoore/age-dataset,kaggle
 others,AI Developer Productivity Dataset,https://www.kaggle.com/datasets/atharvasoundankar/ai-developer-productivity-dataset,kaggle
-others,AI Impact on Jobs 2030,https://www.kaggle.com/datasets/khushikyad001/ai-impact-on-jobs-2030,kaggle
-others,AI-Powered Job Market Insights,https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights,kaggle
-others,Air Passengers,https://www.kaggle.com/datasets/rakannimer/air-passengers,kaggle
 others,Air pressure system failures in Scania trucks,https://www.kaggle.com/datasets/uciml/aps-failure-at-scania-trucks-data-set,kaggle
-others,Airbnb Listings 2016 Dataset,https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset,kaggle
-others,Airbnb Prices in European Cities,https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities,kaggle
 others,Airline Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset,kaggle
 others,"Airline Delay and Cancellation Data, 2009 - 2018",https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018,kaggle
 others,Airline Delays,https://www.kaggle.com/datasets/eugeniyosetrov/airline-delays,kaggle
@@ -1232,26 +1313,13 @@ others,Airplane Crash Data Since 1908,https://www.kaggle.com/datasets/cgurkan/ai
 others,Airplane Crashes Since 1908,https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908,kaggle
 others,AISegment.com - Matting Human Datasets,https://www.kaggle.com/datasets/laurentmih/aisegmentcom-matting-human-datasets,kaggle
 others,Alcohol Effects On Study,https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study,kaggle
-others,All Agriculture related Datasets for India,https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india,kaggle
 others,Amazon - Ratings (Beauty Products),https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings,kaggle
-others,Amazon Alexa Reviews,https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews,kaggle
-others,Amazon Books Reviews,https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews,kaggle
-others,Amazon Cell Phones Reviews,https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews,kaggle
-others,Amazon Fine Food Reviews,https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews,kaggle
 others,Amazon Kindle Books Dataset 2023 (130K Books),https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books,kaggle
-others,Amazon Musical Instruments Reviews,https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews,kaggle
 others,Amazon Prime Movies and TV Shows,https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows,kaggle
-others,Amazon Product Reviews,https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews,kaggle
 others,Amazon Products Dataset 2023 (1.4M Products),https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products,kaggle
-others,Amazon Products Sales Dataset 2023,https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset,kaggle
-others,Amazon reviews,https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews,kaggle
-others,Amazon reviews: Kindle Store Category,https://www.kaggle.com/datasets/bharadwaj6/kindle-reviews,kaggle
-others,Amazon Reviews: Unlocked Mobile Phones,https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones,kaggle
-others,Amazon Sales Dataset,https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset,kaggle
 others,Amazon Seller - Order Status Prediction,https://www.kaggle.com/datasets/pranalibose/amazon-seller-order-status-prediction,kaggle
 others,Amazon Top 50 Bestselling Books 2009 - 2019,https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019,kaggle
 others,Amazon UK Products Dataset 2023 (2.2M Products),https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023,kaggle
-others,Amazon_Sales_Dataset,https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset,kaggle
 others,AMEX data - integer dtypes - parquet format,https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format,kaggle
 others,An Open Dataset for Human Activity Analysis,https://www.kaggle.com/datasets/sasanj/human-activity-smart-devices,kaggle
 others,Analytical Base Table Churn,https://www.kaggle.com/datasets/teocalvo/analytical-base-table-churn,kaggle
@@ -1259,12 +1327,8 @@ others,Androgen Receptor ChIP-seq Peaks,https://www.kaggle.com/datasets/ushareng
 others,Android smartphones high accuracy GNSS datasets,https://www.kaggle.com/datasets/google/android-smartphones-high-accuracy-datasets,kaggle
 others,Animal Care,https://www.kaggle.com/datasets/melissamonfared/animal-care,kaggle
 others,Animal Crossing New Horizons Catalog,https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset,kaggle
-others,Animal Crossing Reviews,https://www.kaggle.com/datasets/jessemostipak/animal-crossing,kaggle
-others,Animal Faces,https://www.kaggle.com/datasets/andrewmvd/animal-faces,kaggle
 others,Animals-10,https://www.kaggle.com/datasets/alessiocorrado99/animals10,kaggle
 others,Anime Dataset 2023,https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset,kaggle
-others,Anime Dataset with Reviews - My Anime List,https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews,kaggle
-others,Anime Faces,https://www.kaggle.com/datasets/soumikrakshit/anime-faces,kaggle
 others,Anime Recommendations Database,https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database,kaggle
 others,Anime Sketch Colorization Pair,https://www.kaggle.com/datasets/ktaebum/anime-sketch-colorization-pair,kaggle
 others,Anxiety and Depression Psychological Therapies,https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsanxietycsv,kaggle
@@ -1272,59 +1336,41 @@ others,Apartment rental offers in Germany,https://www.kaggle.com/datasets/corrie
 others,Apple Quality,https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality,kaggle
 others,Aq SolDB: A curated aqueous solubility dataset,https://www.kaggle.com/datasets/sorkun/aqsoldb-a-curated-aqueous-solubility-dataset,kaggle
 others,ar Xiv Dataset,https://www.kaggle.com/datasets/Cornell-University/arxiv,kaggle
-others,Arabic Handwritten Characters Dataset,https://www.kaggle.com/datasets/mloey1/ahcd1,kaggle
-others,Arabic Handwritten Digits Dataset,https://www.kaggle.com/datasets/mloey1/ahdd1,kaggle
-others,Armenian Online Job Postings,https://www.kaggle.com/datasets/udacity/armenian-online-job-postings,kaggle
-others,Art Images: Drawing/Painting/Sculptures/Engravings,https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving,kaggle
 others,Articles sharing and reading from CI and T Desk Drop,https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop,kaggle
 others,Artificial Lunar Landscape Dataset,https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset,kaggle
 others,ASL Alphabet,https://www.kaggle.com/datasets/grassknoted/asl-alphabet,kaggle
 others,Association of Tennis Professionals Matches,https://www.kaggle.com/datasets/gmadevs/atp-matches-dataset,kaggle
 others,Asteroid Dataset,https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset,kaggle
-others,AT and T Database of Faces,https://www.kaggle.com/datasets/kasikrit/att-database-of-faces,kaggle
 others,ATP Men's Tour,https://www.kaggle.com/datasets/jordangoblet/atp-tour-20002016,kaggle
 others,Audio Cats and Dogs,https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs,kaggle
 others,Austin Animal Center Shelter Outcomes,https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and,kaggle
 others,Australian Football League (AFL) Database,https://www.kaggle.com/datasets/stoney71/aflstats,kaggle
-others,Australian Vehicle Prices,https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices,kaggle
 others,Autism Screening,https://www.kaggle.com/datasets/faizunnabi/autism-screening,kaggle
 others,Autism screening data for toddlers,https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers,kaggle
 others,Auto-mpg dataset,https://www.kaggle.com/datasets/uciml/autompg-dataset,kaggle
 others,autodownloaded,https://www.kaggle.com/datasets/tahmidmir/autodownloaded,kaggle
 others,Automobile Dataset,https://www.kaggle.com/datasets/toramky/automobile-dataset,kaggle
-others,Automobile Sales data,https://www.kaggle.com/datasets/ddosad/auto-sales-data,kaggle
 others,AutoXGB,https://www.kaggle.com/datasets/abhishek/autoxgb,kaggle
-others,AV: Healthcare Analytics,https://www.kaggle.com/datasets/shivan118/healthcare-analytics,kaggle
-others,AV: Healthcare Analytics II,https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii,kaggle
-others,Avocado Prices,https://www.kaggle.com/datasets/neuromusic/avocado-prices,kaggle
-others,Bakery Sales,https://www.kaggle.com/datasets/hosubjeong/bakery-sales,kaggle
 others,Barcelona data sets,https://www.kaggle.com/datasets/xvivancos/barcelona-data-sets,kaggle
 others,Baseball Databank,https://www.kaggle.com/datasets/open-source-sports/baseball-databank,kaggle
 others,Beat The Bookie: Odds Series Football Dataset,https://www.kaggle.com/datasets/austro/beat-the-bookie-worldwide-football-dataset,kaggle
 others,Bee or wasp?,https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp,kaggle
 others,Beer Consumption - Sao Paulo,https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo,kaggle
-others,Beer Reviews,https://www.kaggle.com/datasets/rdoume/beerreviews,kaggle
 others,beginner_datasets,https://www.kaggle.com/datasets/ahmettezcantekin/beginner-datasets,kaggle
 others,Behavioral Risk Factor Surveillance System,https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system,kaggle
-others,Bengaluru House price data,https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data,kaggle
 others,bert base uncased,https://www.kaggle.com/datasets/abhishek/bert-base-uncased,kaggle
 others,Best Artworks of All Time,https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time,kaggle
 others,best-selling-books,https://www.kaggle.com/datasets/drahulsingh/best-selling-books,kaggle
 others,Big Basket Entire Product List (28K datapoints),https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints,kaggle
 others,Big Data Certification KR,https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr,kaggle
 others,Big Five Personality Test,https://www.kaggle.com/datasets/tunguz/big-five-personality-test,kaggle
-others,Big Mart Sales Data,https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data,kaggle
-others,Bike Sales in Europe,https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe,kaggle
 others,Bike Sharing in Washington D.C. Dataset,https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset,kaggle
 others,Bike Store Relational Database SQL,https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database,kaggle
 others,"Billboard ""The Hot 100"" Songs",https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs,kaggle
 others,Binance Full History,https://www.kaggle.com/datasets/jorijnsmit/binance-full-history,kaggle
 others,Biomechanical features of orthopedic patients,https://www.kaggle.com/datasets/uciml/biomechanical-features-of-orthopedic-patients,kaggle
 others,Black Friday,https://www.kaggle.com/datasets/sdolezel/black-friday,kaggle
-others,Blood Cell Images,https://www.kaggle.com/datasets/paultimothymooney/blood-cells,kaggle
-others,BMW Global Automotive Sales,https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales,kaggle
 others,Board Game Data,https://www.kaggle.com/datasets/mrpantherson/board-game-data,kaggle
-others,Board Game Geek Reviews,https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews,kaggle
 others,Board Games,https://www.kaggle.com/datasets/melissamonfared/board-games,kaggle
 others,Board Games Dataset,https://www.kaggle.com/datasets/gabrio/board-games-dataset,kaggle
 others,Boat types recognition,https://www.kaggle.com/datasets/clorichel/boat-types-recognition,kaggle
@@ -1332,33 +1378,24 @@ others,Body Fat Prediction Dataset,https://www.kaggle.com/datasets/fedesoriano/b
 others,Body performance Data,https://www.kaggle.com/datasets/kukuroo3/body-performance-data,kaggle
 others,Books Dataset,https://www.kaggle.com/datasets/saurabhbagchi/books-dataset,kaggle
 others,Border Crossing Entry Data,https://www.kaggle.com/datasets/akhilv11/border-crossing-entry-data,kaggle
-others,Boston House Prices,https://www.kaggle.com/datasets/vikrishnan/boston-house-prices,kaggle
 others,BRaTS 2021 Task 1 Dataset,https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1,kaggle
 others,BraTS2020 Dataset (Training + Validation),https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation,kaggle
 others,Brazilian Cities,https://www.kaggle.com/datasets/crisparada/brazilian-cities,kaggle
 others,Brazilian E-Commerce Public Dataset by Olist,https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce,kaggle
 others,Break His,https://www.kaggle.com/datasets/ambarish/breakhis,kaggle
-others,Breast Histopathology Images,https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images,kaggle
-others,Brent Oil Prices,https://www.kaggle.com/datasets/mabusalah/brent-oil-prices,kaggle
 others,Brewer's Friend Beer Recipes,https://www.kaggle.com/datasets/jtrofe/beer-recipes,kaggle
 others,Brian Tumor Dataset,https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset,kaggle
 others,British Birdsong Dataset,https://www.kaggle.com/datasets/rtatman/british-birdsong-dataset,kaggle
-others,Cafe Sales - Dirty Data for Cleaning Training,https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training,kaggle
 others,CalCOFI,https://www.kaggle.com/datasets/sohier/calcofi,kaggle
 others,California Traffic Collision Data from SWITRS,https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs,kaggle
 others,Campeonato Brasileiro de futebol,https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol,kaggle
 others,Campus Recruitment,https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement,kaggle
 others,Cannabis Strains,https://www.kaggle.com/datasets/kingburrito666/cannabis-strains,kaggle
-others,CAPTCHA Images,https://www.kaggle.com/datasets/fournierp/captcha-version-2-images,kaggle
 others,Car Evaluation Data Set,https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set,kaggle
 others,Car Features and MSRP,https://www.kaggle.com/datasets/CooperUnion/cardataset,kaggle
 others,Car information dataset,https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset,kaggle
 others,Car Sale Advertisements,https://www.kaggle.com/datasets/antfarol/car-sale-advertisements,kaggle
-others,Car sales,https://www.kaggle.com/datasets/gagandeep16/car-sales,kaggle
-others,"Car Sales Dataset: Model, Features, and Pricing",https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales,kaggle
-others,Car Sales Report,https://www.kaggle.com/datasets/missionjee/car-sales-report,kaggle
 others,Cardio Good Fitness,https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness,kaggle
-others,Cardiovascular Diseases Risk Prediction Dataset,https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset,kaggle
 others,Cars Datasets (2025),https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025,kaggle
 others,casia dataset,https://www.kaggle.com/datasets/sophatvathana/casia-dataset,kaggle
 others,Cat and Dog,https://www.kaggle.com/datasets/tongpython/cat-and-dog,kaggle
@@ -1371,7 +1408,6 @@ others,Cats-vs-Dogs,https://www.kaggle.com/datasets/shaunthesheep/microsoft-cats
 others,Cause of Deaths around the World (Historical Data),https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world,kaggle
 others,Causes of Death in Indonesia,https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia,kaggle
 others,"CDC Data: Nutrition, Physical Activity, and Obesity",https://www.kaggle.com/datasets/spittman1248/cdc-data-nutrition-physical-activity-obesity,kaggle
-others,Celeb Faces Attributes (CelebA) Dataset,https://www.kaggle.com/datasets/jessicali9530/celeba-dataset,kaggle
 others,CERN Electron Collision Data,https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data,kaggle
 others,Chai Time Data Science CTDS.Show,https://www.kaggle.com/datasets/rohanrao/chai-time-data-science,kaggle
 others,Chatbot dataset,https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset,kaggle
@@ -1382,11 +1418,8 @@ others,Chest X-rays (Indiana University),https://www.kaggle.com/datasets/raddar/
 others,Chicago Divvy Bicycle Sharing Data,https://www.kaggle.com/datasets/yingwurenjian/chicago-divvy-bicycle-sharing-data,kaggle
 others,Chicago Taxi Trips,https://www.kaggle.com/datasets/chicago/chicago-taxi-trips-bq,kaggle
 others,Child Malnutrition - UNICEF Dataset,https://www.kaggle.com/datasets/usharengaraju/child-malnutrition-unicef-dataset,kaggle
-others,Chinese MNIST,https://www.kaggle.com/datasets/gpreda/chinese-mnist,kaggle
 others,ChIP-seq data for the histone H3 - H3K27ac,https://www.kaggle.com/datasets/usharengaraju/corruption-in-india,kaggle
 others,Chocolate Bar Ratings,https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings,kaggle
-others,Chocolate Sales,https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales,kaggle
-others,Chocolate Sales Data,https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales,kaggle
 others,"Chronic illness: symptoms, treatments and triggers",https://www.kaggle.com/datasets/flaredown/flaredown-autoimmune-symptom-tracker,kaggle
 others,Churn in Telecom's dataset,https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset,kaggle
 others,Churn Modelling,https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling,kaggle
@@ -1404,31 +1437,23 @@ others,coco128,https://www.kaggle.com/datasets/ultralytics/coco128,kaggle
 others,Coffee dataset,https://www.kaggle.com/datasets/michals22/coffee-dataset,kaggle
 others,Coffee Quality Data (CQI May-2023),https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi,kaggle
 others,Coffee Quality database from CQI,https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi,kaggle
-others,Coffee Sales,https://www.kaggle.com/datasets/ihelon/coffee-sales,kaggle
-others,Coffee Sales Dataset,https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset,kaggle
-others,Coffee Shop Sales,https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales,kaggle
 others,Coffee shop sample data (11.1.3+),https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113,kaggle
 others,College Basketball Dataset,https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset,kaggle
 others,College Football Team Stats Seasons 2013 to 2023,https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019,kaggle
-others,Colorectal Histology MNIST,https://www.kaggle.com/datasets/kmader/colorectal-histology-mnist,kaggle
 others,Common Password List (rockyou.txt),https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt,kaggle
 others,Common Voice,https://www.kaggle.com/datasets/mozillaorg/common-voice,kaggle
-others,Company Bankruptcy Prediction,https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction,kaggle
 others,Complete Cryptocurrency Market History,https://www.kaggle.com/datasets/taniaj/cryptocurrency-market-history-coinmarketcap,kaggle
 others,Complete FIFA 2017 Player dataset (Global),https://www.kaggle.com/datasets/artimous/complete-fifa-2017-player-dataset-global,kaggle
 others,Complete Kaggle Datasets Collection,https://www.kaggle.com/datasets/jessevent/all-kaggle-datasets,kaggle
 others,Complete Pokemon Dataset (Updated 16.04.21),https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420,kaggle
 others,Computer Network Traffic,https://www.kaggle.com/datasets/crawford/computer-network-traffic,kaggle
 others,Computer Parts (CPUs and GPUs),https://www.kaggle.com/datasets/iliassekkaf/computerparts,kaggle
-others,Coronavirus (covid19) Tweets,https://www.kaggle.com/datasets/smid80/coronavirus-covid19-tweets,kaggle
-others,Coronavirus - Brazil,https://www.kaggle.com/datasets/unanimad/corona-virus-brazil,kaggle
 others,Cosmetics datasets,https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets,kaggle
 others,Cost of Living,https://www.kaggle.com/datasets/stephenofarrell/cost-of-living,kaggle
 others,Cost of Living Index by Country,https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024,kaggle
 others,Cost Prediction on acquiring Customers,https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart,kaggle
 others,Countries of the World,https://www.kaggle.com/datasets/fernandol/countries-of-the-world,kaggle
 others,Coursera Course Dataset,https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset,kaggle
-others,COVID19 Tweets,https://www.kaggle.com/datasets/gpreda/covid19-tweets,kaggle
 others,COVIDx CT,https://www.kaggle.com/datasets/hgunraj/covidxct,kaggle
 others,COVIDx CXR-4,https://www.kaggle.com/datasets/andyczhao/covidx-cxr2,kaggle
 others,Crab Age Prediction,https://www.kaggle.com/datasets/sidhus/crab-age-prediction,kaggle
@@ -1439,7 +1464,6 @@ others,Crimes in Boston,https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-
 others,Crimes in Chicago,https://www.kaggle.com/datasets/currie32/crimes-in-chicago,kaggle
 others,Cristiano Ronaldo All Club Goals,https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats,kaggle
 others,Crowd Counting,https://www.kaggle.com/datasets/fmena14/crowd-counting,kaggle
-others,Cryptocurrency Historical Prices,https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory,kaggle
 others,CS:GO Competitive Matchmaking Data,https://www.kaggle.com/datasets/skihikingkevin/csgo-matchmaking-damage,kaggle
 others,CT KIDNEY DATASET: Normal-Cyst-Tumor and Stone,https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone,kaggle
 others,Cuff-Less Blood Pressure Estimation,https://www.kaggle.com/datasets/mkachuee/BloodPressureDataset,kaggle
@@ -1450,8 +1474,6 @@ others,DAIGT V2 Train Dataset,https://www.kaggle.com/datasets/thedrcat/daigt-v2-
 others,Dark Net Marketplace Data (Agora 2014-2015),https://www.kaggle.com/datasets/philipjames11/dark-net-marketplace-drug-data-agora-20142015,kaggle
 others,Dark Triad Dataset,https://www.kaggle.com/datasets/tahmidmir/dark-triad-data-csv,kaggle
 others,DARPA TIMIT Acoustic-Phonetic Continuous Speech,https://www.kaggle.com/datasets/mfekadu/darpa-timit-acousticphonetic-continuous-speech,kaggle
-others,"Data Analyst Job Postings [Pay, Skills, Benefits]",https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search,kaggle
-others,Data Analyst Jobs,https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs,kaggle
 others,Data Co SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS,https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis,kaggle
 others,Data for Admission in the University,https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university,kaggle
 others,Data Police shootings,https://www.kaggle.com/datasets/mrmorj/data-police-shootings,kaggle
@@ -1460,13 +1482,8 @@ others,Data Science Cheat Sheets,https://www.kaggle.com/datasets/timoboz/data-sc
 others,Data Science for Good: Center for Policing Equity,https://www.kaggle.com/datasets/center-for-policing-equity/data-science-for-good,kaggle
 others,Data Science for Good: Kiva Crowdfunding,https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding,kaggle
 others,Data Science for Good: PASSNYC,https://www.kaggle.com/datasets/passnyc/data-science-for-good,kaggle
-others,Data Science Job Posting on Glassdoor,https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor,kaggle
-others,Data Science Job Salaries,https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries,kaggle
-others,Data Science Jobs Salaries Dataset,https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries,kaggle
 others,Data Science Salaries 2023,https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023,kaggle
 others,Data Science Workshop,https://www.kaggle.com/datasets/shivavashishtha/data-science-workshop,kaggle
-others,"Data Science, AI and ML Job Salaries in 2025",https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs,kaggle
-others,Data Scientist Job Market in the U.S,https://www.kaggle.com/datasets/sl6149/data-scientist-job-market-in-the-us,kaggle
 others,Data scientist salary,https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor,kaggle
 others,Data Visualization Cheat sheets and Resources,https://www.kaggle.com/datasets/kaushiksuresh147/data-visualization-cheat-cheats-and-resources,kaggle
 others,Data Without Drift,https://www.kaggle.com/datasets/cdeotte/data-without-drift,kaggle
@@ -1477,9 +1494,7 @@ others,Date Fruit Datasets,https://www.kaggle.com/datasets/muratkokludataset/dat
 others,DDoS Dataset,https://www.kaggle.com/datasets/devendra416/ddos-datasets,kaggle
 others,DDSM Mammography,https://www.kaggle.com/datasets/skooch/ddsm-mammography,kaggle
 others,Deep Globe Road Extraction Dataset,https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset,kaggle
-others,deepfake and real images,https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images,kaggle
 others,Deforestation in Federal Conservation Units,https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadstserofcsv,kaggle
-others,Demographics of Academy Awards (Oscars) Winners,https://www.kaggle.com/datasets/fmejia21/demographics-of-academy-awards-oscars-winners,kaggle
 others,Dental Radiography,https://www.kaggle.com/datasets/imtkaggleteam/dental-radiography,kaggle
 others,Depression Dataset,https://www.kaggle.com/datasets/anthonytherrien/depression-dataset,kaggle
 others,Dermnet,https://www.kaggle.com/datasets/shubhamgoel27/dermnet,kaggle
@@ -1487,24 +1502,21 @@ others,Detailed NFL Play-by-Play Data 2009-2018,https://www.kaggle.com/datasets/
 others,Diabetic Retinopathy (resized),https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized,kaggle
 others,Diabetic Retinopathy 224x224 Gaussian Filtered,https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered,kaggle
 others,Diamonds,https://www.kaggle.com/datasets/shivam2503/diamonds,kaggle
-others,Diamonds Prices,https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices,kaggle
 others,Dirty Excel Data,https://www.kaggle.com/datasets/shivavashishtha/dirty-excel-data,kaggle
 others,Discover Perfect ride:OLXScooty and Scooters,https://www.kaggle.com/datasets/marianadeem755/discover-perfect-rideolxscooty-and-scooters,kaggle
 others,Disney+ Movies and TV Shows,https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows,kaggle
-others,Disneyland Reviews,https://www.kaggle.com/datasets/arushchillar/disneyland-reviews,kaggle
 others,Divorce Prediction,https://www.kaggle.com/datasets/andrewmvd/divorce-prediction,kaggle
 others,DL Course Data,https://www.kaggle.com/datasets/ryanholbrook/dl-course-data,kaggle
 others,Dog vs Cat,https://www.kaggle.com/datasets/anthonytherrien/dog-vs-cat,kaggle
 others,Dog vs Cat (fastai),https://www.kaggle.com/datasets/arpitjain007/dog-vs-cat-fastai,kaggle
-others,Dogs and Cats Images,https://www.kaggle.com/datasets/chetankv/dogs-cats-images,kaggle
 others,Dogs vs Cats,https://www.kaggle.com/datasets/biaiscience/dogs-vs-cats,kaggle
+others,Dollar Vs Asian Currencies,https://www.kaggle.com/datasets/imtkaggleteam/dollar-vs-asian-currencies,kaggle
+others,Donald Trump Rally Speeches,https://www.kaggle.com/datasets/christianlillelund/donald-trumps-rallies,kaggle
 others,Dota 2 Matches,https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches,kaggle
-others,Douban Movie Short Comments Dataset,https://www.kaggle.com/datasets/utmhikari/doubanmovieshortcomments,kaggle
 others,Drone Dataset (UAV),https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav,kaggle
 others,Drug overdose deaths,https://www.kaggle.com/datasets/ruchi798/drug-overdose-deaths,kaggle
 others,"Drugs A, B, C, X, Y for Decision Trees",https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees,kaggle
 others,Dry Bean Dataset,https://www.kaggle.com/datasets/muratkokludataset/dry-bean-dataset,kaggle
-others,Dummy Marketing and Sales Data,https://www.kaggle.com/datasets/harrimansaragih/dummy-advertising-and-sales-data,kaggle
 others,Dunnhumby - The Complete Journey,https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey,kaggle
 others,Durum Wheat Dataset,https://www.kaggle.com/datasets/muratkokludataset/durum-wheat-dataset,kaggle
 others,e Commerce Events History in Cosmetics Shop,https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop,kaggle
@@ -1513,33 +1525,24 @@ others,E-Commerce Data,https://www.kaggle.com/datasets/benroshan/ecommerce-data,
 others,E-Commerce Data,https://www.kaggle.com/datasets/carrie1/ecommerce-data,kaggle
 others,E-Commerce Dataset,https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset,kaggle
 others,E-commerce Public Dataset by Alibaba,https://www.kaggle.com/datasets/AppleEcomerceInfo/ecommerce-information,kaggle
-others,E-Commerce Sales Dataset,https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data,kaggle
 others,Earnings of females and males employees,https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsearningcsv,kaggle
 others,Ebola 2014-2016 Western Africa Ebola Outbreak,https://www.kaggle.com/datasets/imdevskp/ebola-outbreak-20142016-complete-dataset,kaggle
 others,Edge-IIo Tset Cyber Security Dataset of IoT and IIoT,https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot,kaggle
-others,EEG Brainwave Dataset: Feeling Emotions,https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions,kaggle
-others,EEG data from basic sensory task in Schizophrenia,https://www.kaggle.com/datasets/broach/button-tone-sz,kaggle
-others,EEG-Alcohol,https://www.kaggle.com/datasets/nnair25/Alcoholics,kaggle
 others,Efficient Net Py Torch,https://www.kaggle.com/datasets/hmendonca/efficientnet-pytorch,kaggle
-others,Egg Sales of a local shop for 30 years,https://www.kaggle.com/datasets/kanchana1990/egg-sales-of-a-local-shop-for-30-years,kaggle
 others,Electric Power Consumption,https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption,kaggle
 others,Electric Vehicle Charging Patterns,https://www.kaggle.com/datasets/valakhorasani/electric-vehicle-charging-patterns,kaggle
 others,Electric Vehicle Specs Dataset (2025),https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025,kaggle
-others,Electronic Products and Pricing Data,https://www.kaggle.com/datasets/datafiniti/electronic-products-prices,kaggle
 others,Elliptic Data Set,https://www.kaggle.com/datasets/ellipticco/elliptic-data-set,kaggle
 others,Emergency - 911 Calls,https://www.kaggle.com/datasets/mchirico/montcoalert,kaggle
-others,EMNIST (Extended MNIST),https://www.kaggle.com/datasets/crawford/emnist,kaggle
 others,Emotion Dataset,https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset,kaggle
 others,Emotions,https://www.kaggle.com/datasets/nelgiriyewithana/emotions,kaggle
 others,Employee Analysis Attrition Report,https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition,kaggle
 others,Employee Attrition,https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data,kaggle
 others,Employee Attrition,https://www.kaggle.com/datasets/patelprashant/employee-attrition,kaggle
-others,Employee Attrition for Healthcare,https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare,kaggle
 others,Employee dataset,https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset,kaggle
 others,Employee Salaries Analysis,https://www.kaggle.com/datasets/sahirmaharajj/employee-salaries-analysis,kaggle
 others,Employee/HR Dataset (All in One),https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset,kaggle
 others,Engineering Placements Prediction,https://www.kaggle.com/datasets/tejashvi14/engineering-placements-prediction,kaggle
-others,English Handwritten Characters,https://www.kaggle.com/datasets/dhruvildave/english-handwritten-characters-dataset,kaggle
 others,English Premier League,https://www.kaggle.com/datasets/saife245/english-premier-league,kaggle
 others,English Premier League (EPL) Results,https://www.kaggle.com/datasets/irkaal/english-premier-league-results,kaggle
 others,English Premier League stats 2019-2020,https://www.kaggle.com/datasets/idoyo92/epl-stats-20192020,kaggle
@@ -1551,22 +1554,17 @@ others,Epileptic Seizure Recognition,https://www.kaggle.com/datasets/harunshiman
 others,EPL Results 1993-2018,https://www.kaggle.com/datasets/thefc17/epl-results-19932018,kaggle
 others,Ethereum Blockchain,https://www.kaggle.com/datasets/bigquery/ethereum-blockchain,kaggle
 others,Ethereum Historical Data,https://www.kaggle.com/datasets/kingburrito666/ethereum-historical-data,kaggle
-others,Europe Bike Store Sales,https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales,kaggle
 others,European Soccer Database,https://www.kaggle.com/datasets/hugomathien/soccer,kaggle
 others,European Soccer Score Card Database,https://www.kaggle.com/datasets/omercolakoglu/european-soccer-score-card-database,kaggle
 others,EVs - One Electric Vehicle Dataset - Smaller,https://www.kaggle.com/datasets/geoffnel/evs-one-electric-vehicle-dataset,kaggle
 others,Exam Score Prediction Dataset,https://www.kaggle.com/datasets/kundanbedmutha/exam-score-prediction-dataset,kaggle
 others,Excel data file,https://www.kaggle.com/datasets/rbansalasr/excel-data-file,kaggle
-others,Explore Datascience Opportunities on Linked In,https://www.kaggle.com/datasets/marianadeem755/explore-exciting-opportunities-on-linkedin,kaggle
 others,Eye Gaze,https://www.kaggle.com/datasets/4quant/eye-gaze,kaggle
 others,Facebook Ad Campaign,https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign,kaggle
 others,Facebook Data,https://www.kaggle.com/datasets/sheenabatra/facebook-data,kaggle
 others,Facebook V Results: Predicting Check Ins,https://www.kaggle.com/datasets/facebook/facebook-v-results,kaggle
 others,Famous Iconic Women,https://www.kaggle.com/datasets/fatiimaezzahra/famous-iconic-women,kaggle
 others,Fashion Clothing Products Dataset,https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog,kaggle
-others,Fashion MNIST,https://www.kaggle.com/datasets/zalando-research/fashionmnist,kaggle
-others,Fashion Product Images (Small),https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small,kaggle
-others,Fashion Product Images Dataset,https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset,kaggle
 others,Fast Food Nutrition,https://www.kaggle.com/datasets/joebeachcapital/fast-food,kaggle
 others,Fast Food Restaurants Across America,https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants,kaggle
 others,Fastfood Nutrition,https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition,kaggle
@@ -1577,7 +1575,6 @@ others,Feather and Parquet Files: AMEX-Default Prediction,https://www.kaggle.com
 others,"Federal Reserve Interest Rates, 1954-Present",https://www.kaggle.com/datasets/federalreserve/interest-rates,kaggle
 others,FER-2013,https://www.kaggle.com/datasets/msambare/fer2013,kaggle
 others,fer2013,https://www.kaggle.com/datasets/deadskull7/fer2013,kaggle
-others,Fibrosis SMOC2 Raw Counts,https://www.kaggle.com/datasets/usharengaraju/ecological-footprint,kaggle
 others,FIFA 18 Complete Player Dataset,https://www.kaggle.com/datasets/thec03u5/fifa-18-demo-player-dataset,kaggle
 others,Fifa 18 More Complete Player Dataset,https://www.kaggle.com/datasets/kevinmh/fifa-18-more-complete-player-dataset,kaggle
 others,FIFA 19 complete player dataset,https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset,kaggle
@@ -1594,21 +1591,17 @@ others,Five Thirty Eight,https://www.kaggle.com/datasets/fivethirtyeight/fivethi
 others,Five Thirty Eight Comic Characters Dataset,https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-comic-characters-dataset,kaggle
 others,Five Thirty Eight Comic Characters Dataset,https://www.kaggle.com/datasets/idrisbenmahdjoub/fivethirtyeight-comic-characters-dataset,kaggle
 others,Flickr 8k Dataset,https://www.kaggle.com/datasets/adityajn105/flickr8k,kaggle
-others,Flickr-Faces-HQ Dataset (FFHQ),https://www.kaggle.com/datasets/arnaud58/flickrfaceshq-dataset-ffhq,kaggle
 others,Flickr8K,https://www.kaggle.com/datasets/shadabhussain/flickr8k,kaggle
 others,Flight Fare Prediction MH,https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh,kaggle
-others,Flight Price Prediction,https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction,kaggle
 others,Flight Route Database,https://www.kaggle.com/datasets/open-flights/flight-route-database,kaggle
 others,Flight Status Prediction,https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022,kaggle
 others,Flipkart Products,https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products,kaggle
-others,Flower Color Images,https://www.kaggle.com/datasets/olgabelitskaya/flower-color-images,kaggle
 others,Flowers Dataset,https://www.kaggle.com/datasets/imsparsh/flowers-dataset,kaggle
 others,Flowers Recognition,https://www.kaggle.com/datasets/alxmamaev/flowers-recognition,kaggle
 others,Food 101,https://www.kaggle.com/datasets/dansbecker/food-101,kaggle
 others,Food App Business,https://www.kaggle.com/datasets/ybifoundation/food-app-business,kaggle
 others,Food choices,https://www.kaggle.com/datasets/borapajo/food-choices,kaggle
 others,Food Delivery Dataset,https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset,kaggle
-others,Food Images (Food-101),https://www.kaggle.com/datasets/kmader/food41,kaggle
 others,Food Nutrition Dataset,https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset,kaggle
 others,Food.com Recipes and Interactions,https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions,kaggle
 others,Football Data from Transfermarkt,https://www.kaggle.com/datasets/davidcariboo/player-scores,kaggle
@@ -1616,13 +1609,11 @@ others,Football Data: Expected Goals and Other Metrics,https://www.kaggle.com/da
 others,Football Events,https://www.kaggle.com/datasets/secareanualin/football-events,kaggle
 others,Football Players Stats (Premier League 2021-2022),https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022,kaggle
 others,Forbes 2022 Billionaires data [Pre-processed],https://www.kaggle.com/datasets/surajjha101/forbes-billionaires-data-preprocessed,kaggle
-others,Ford Car Price Prediction,https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction,kaggle
 others,Forecasts for Product Demand,https://www.kaggle.com/datasets/felixzhao/productdemandforecasting,kaggle
 others,Foreign Exchange Rates 2000-2019,https://www.kaggle.com/datasets/brunotly/foreign-exchange-rates-per-dollar-20002019,kaggle
 others,Formula 1 Race Data,https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017,kaggle
 others,Formula 1 Racing (1950 - 2024),https://www.kaggle.com/datasets/melissamonfared/formula-1,kaggle
 others,Formula 1 World Championship (1950 - 2024),https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020,kaggle
-others,Fortune 500 Companies of 2017 in US [Latest],https://www.kaggle.com/datasets/shaz13/fotune500-2017,kaggle
 others,Four Shapes,https://www.kaggle.com/datasets/smeschke/four-shapes,kaggle
 others,Fraudulent Transactions Data,https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data,kaggle
 others,Fruit Recognition,https://www.kaggle.com/datasets/chrisfilo/fruit-recognition,kaggle
@@ -1633,7 +1624,6 @@ others,Full TMDb TV Shows Dataset 2024 (150K Shows),https://www.kaggle.com/datas
 others,Game of Thrones,https://www.kaggle.com/datasets/mylesoneill/game-of-thrones,kaggle
 others,Game of Thrones Subtitles,https://www.kaggle.com/datasets/gunnvant/game-of-thrones-srt,kaggle
 others,Game Recommendations on Steam,https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam,kaggle
-others,Gas Prices in Brazil,https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil,kaggle
 others,GDP per Country 2020-2025,https://www.kaggle.com/datasets/codebynadiia/gdp-per-country-20202025,kaggle
 others,Gene expression dataset (Golub et al.),https://www.kaggle.com/datasets/crawford/gene-expression,kaggle
 others,Genetic Variant Classifications,https://www.kaggle.com/datasets/kevinarvai/clinvar-conflicting,kaggle
@@ -1641,27 +1631,21 @@ others,Genshin Impact Character Data,https://www.kaggle.com/datasets/sophiahealy
 others,Git Hub Code Snippets,https://www.kaggle.com/datasets/simiotic/github-code-snippets,kaggle
 others,Git Hub Repos,https://www.kaggle.com/datasets/github/github-repos,kaggle
 others,Glo Ve: Global Vectors for Word Representation,https://www.kaggle.com/datasets/rtatman/glove-global-vectors-for-word-representation,kaggle
-others,Global AI Job Market and Salary Trends 2025,https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025,kaggle
 others,Global Cost of Living,https://www.kaggle.com/datasets/mvieira101/global-cost-of-living,kaggle
 others,Global Country Information Dataset 2023,https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023,kaggle
 others,Global Crocodile Species Dataset,https://www.kaggle.com/datasets/zadafiyabhrami/global-crocodile-species-dataset,kaggle
 others,Global Cybersecurity Threats (2015-2024),https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024,kaggle
 others,Global Economic Monitor,https://www.kaggle.com/datasets/theworldbank/global-economic-monitor,kaggle
-others,Global Food Prices,https://www.kaggle.com/datasets/jboysen/global-food-prices,kaggle
 others,Global Internet users,https://www.kaggle.com/datasets/ashishraut64/internet-users,kaggle
 others,Global Shark Attacks,https://www.kaggle.com/datasets/teajay/global-shark-attacks,kaggle
 others,Global Super Store Dataset,https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset,kaggle
 others,Global Terrorism Database,https://www.kaggle.com/datasets/START-UMD/gtd,kaggle
 others,Global Terrorism Database (Turkish),https://www.kaggle.com/datasets/omercolakoglu/global-terrorism-database-turkish,kaggle
 others,glove.840B.300d.txt,https://www.kaggle.com/datasets/takuok/glove840b300dtxt,kaggle
-others,Gold Price 10 Years 2013-2023,https://www.kaggle.com/datasets/farzadnekouei/gold-price-10-years-20132023,kaggle
-others,Gold Price Prediction Dataset,https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset,kaggle
-others,Gold Prices,https://www.kaggle.com/datasets/tunguz/gold-prices,kaggle
 others,goodbooks-10k,https://www.kaggle.com/datasets/zygmunt/goodbooks-10k,kaggle
 others,Goodreads Book Datasets With User Rating 2M,https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m,kaggle
 others,Goodreads-books,https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks,kaggle
 others,Google Analytics Sample,https://www.kaggle.com/datasets/bigquery/google-analytics-sample,kaggle
-others,Google Job Skills,https://www.kaggle.com/datasets/niyamatalmass/google-job-skills,kaggle
 others,Google Patents Public Data,https://www.kaggle.com/datasets/bigquery/patents,kaggle
 others,Google Play Store Apps,https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps,kaggle
 others,Google Play Store Apps,https://www.kaggle.com/datasets/lava18/google-play-store-apps,kaggle
@@ -1680,18 +1664,13 @@ others,Haberman's Survival Data Set,https://www.kaggle.com/datasets/gilsousa/hab
 others,Hadith Project,https://www.kaggle.com/datasets/zusmani/hadithsahibukhari,kaggle
 others,Hand Gesture Recognition Database,https://www.kaggle.com/datasets/gti-upm/leapgestrecog,kaggle
 others,Handwriting Recognition,https://www.kaggle.com/datasets/landlord/handwriting-recognition,kaggle
-others,Handwritten math symbols dataset,https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols,kaggle
-others,handwritten signatures,https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures,kaggle
 others,Hate Crimes,https://www.kaggle.com/datasets/melissamonfared/hate-crimes,kaggle
-others,Healthcare Dataset,https://www.kaggle.com/datasets/prasad22/healthcare-dataset,kaggle
 others,Healthy Life Expectancy,https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadslifeexpectancycsv,kaggle
 others,Healthy Lifestyle Cities Report 2021,https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021,kaggle
 others,Heartbeat Sounds,https://www.kaggle.com/datasets/kinguistics/heartbeat-sounds,kaggle
 others,Heights and Weights Dataset,https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset,kaggle
 others,Hepatitis C Prediction Dataset,https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset,kaggle
-others,Hillary Clinton and Donald Trump Tweets,https://www.kaggle.com/datasets/benhamner/clinton-trump-tweets,kaggle
 others,Hillary Clinton's Emails,https://www.kaggle.com/datasets/kaggle/hillary-clinton-emails,kaggle
-others,Historical Sales and Active Inventory,https://www.kaggle.com/datasets/flenderson/sales-analysis,kaggle
 others,HIV AIDS Dataset,https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset,kaggle
 others,Hollywood Theatrical Market Synopsis 1995 to 2021,https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021,kaggle
 others,home data for ml course,https://www.kaggle.com/datasets/dansbecker/home-data-for-ml-course,kaggle
@@ -1702,44 +1681,31 @@ others,Horses Or Humans Dataset,https://www.kaggle.com/datasets/sanikamal/horses
 others,Hospitals and beds in India (Statewise),https://www.kaggle.com/datasets/dheerajmpai/hospitals-and-beds-in-india,kaggle
 others,Hotel Booking,https://www.kaggle.com/datasets/mojtaba142/hotel-booking,kaggle
 others,Hotel booking demand,https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand,kaggle
-others,Hotel Reviews,https://www.kaggle.com/datasets/datafiniti/hotel-reviews,kaggle
-others,House Price,https://www.kaggle.com/datasets/juhibhojani/house-price,kaggle
-others,House Price dataset of India,https://www.kaggle.com/datasets/mohamedafsal007/house-price-dataset-of-india,kaggle
-others,House Price Prediction,https://www.kaggle.com/datasets/hardikgarg03/house-price-prediction,kaggle
-others,House price prediction,https://www.kaggle.com/datasets/shree1992/housedata,kaggle
 others,House Rent Prediction Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset,kaggle
-others,"House Sales in King County, USA",https://www.kaggle.com/datasets/harlfoxem/housesalesprediction,kaggle
 others,Household Electric Power Consumption,https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set,kaggle
 others,HR Analytics,https://www.kaggle.com/datasets/giripujar/hr-analytics,kaggle
 others,HR Analytics,https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction,kaggle
 others,HR Analytics Case Study,https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study,kaggle
 others,HR Analytics Dataset,https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset,kaggle
-others,HR Analytics: Job Change of Data Scientists,https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists,kaggle
 others,Huggingface BERT,https://www.kaggle.com/datasets/xhlulu/huggingface-bert,kaggle
 others,Human Action Recognition (HAR) Dataset,https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset,kaggle
 others,Human Activity Recognition with Smartphones,https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones,kaggle
-others,Human Faces,https://www.kaggle.com/datasets/ashwingupta3012/human-faces,kaggle
 others,Human Resources Data Set,https://www.kaggle.com/datasets/rhuebner/human-resources-data-set,kaggle
 others,IAM Handwriting Top50,https://www.kaggle.com/datasets/tejasreddy/iam-handwriting-top50,kaggle
 others,IBM HR Analytics Employee Attrition and Performance,https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset,kaggle
 others,IBM Transactions for Anti Money Laundering (AML),https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml,kaggle
 others,ICR-integer-data,https://www.kaggle.com/datasets/raddar/icr-integer-data,kaggle
 others,IDS 2018 Intrusion CSVs (CSE-CIC-IDS2018),https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv,kaggle
-others,Images Dataset,https://www.kaggle.com/datasets/pavansanagapati/images-dataset,kaggle
-others,Images of LEGO Bricks,https://www.kaggle.com/datasets/joosthazelzet/lego-brick-images,kaggle
 others,IMDB 5000 Movie Dataset,https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset,kaggle
 others,IMDB data from 2006 to 2016,https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data,kaggle
 others,IMDb Dataset,https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset,kaggle
-others,IMDB Dataset of 50K Movie Reviews,https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews,kaggle
 others,IMDB movies dataset,https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset,kaggle
 others,IMDB Movies Dataset,https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows,kaggle
 others,IMDB Top 250 Movies Dataset,https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset,kaggle
 others,Impact of AI on Digital Media (2020-2025),https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025,kaggle
 others,India - Trade Data,https://www.kaggle.com/datasets/lakshyaag/india-trade-data,kaggle
 others,India 2020 District Level Shape files,https://www.kaggle.com/datasets/imdevskp/india-district-wise-shape-files,kaggle
-others,Indian Companies Registration Data [1857 - 2020],https://www.kaggle.com/datasets/rowhitswami/all-indian-companies-registration-data-1900-2019,kaggle
 others,Indian Food 101,https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101,kaggle
-others,Indian Food Images Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/indian-food-images-dataset,kaggle
 others,Indian Kids Screentime 2025,https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025,kaggle
 others,Indian License Plates,https://www.kaggle.com/datasets/thamizhsterio/indian-license-plates,kaggle
 others,Indian Premier League (Cricket),https://www.kaggle.com/datasets/manasgarg/ipl,kaggle
@@ -1748,15 +1714,12 @@ others,Indian Premier League CSV dataset,https://www.kaggle.com/datasets/harsha5
 others,Indian Startup Funding,https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding,kaggle
 others,Indicators of Anxiety or Depression,https://www.kaggle.com/datasets/melissamonfared/indicators-of-anxiety-or-depression,kaggle
 others,Indonesia Tourism Destination,https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination,kaggle
-others,Indonesia-Coronavirus,https://www.kaggle.com/datasets/ardisragen/indonesia-coronavirus-cases,kaggle
 others,Instacart Market Basket Analysis,https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis,kaggle
 others,Intelligent Monitor,https://www.kaggle.com/datasets/ptdevsecops/intelligent-monitor,kaggle
 others,Interesting Data to Visualize,https://www.kaggle.com/datasets/alexisbcook/data-for-datavis,kaggle
 others,International football results from 1872 to 2026,https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017,kaggle
 others,International Greenhouse Gas Emissions,https://www.kaggle.com/datasets/unitednations/international-greenhouse-gas-emissions,kaggle
-others,Internet Prices around 200+ countries in 2022,https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price,kaggle
 others,Inventory Analysis Case Study,https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study,kaggle
-others,Iowa Liquor Sales,https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales,kaggle
 others,IP Network Traffic Flows Labeled with 75 Apps,https://www.kaggle.com/datasets/jsrojas/ip-network-traffic-flows-labeled-with-87-apps,kaggle
 others,IPL - Player Performance Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/ipl-player-performance-dataset,kaggle
 others,IPL 2008 to 2022 All Match Dataset,https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset,kaggle
@@ -1768,8 +1731,6 @@ others,Iris Flower Dataset,https://www.kaggle.com/datasets/arshid/iris-flower-da
 others,Iris Species,https://www.kaggle.com/datasets/uciml/iris,kaggle
 others,Iris.csv,https://www.kaggle.com/datasets/saurabh00007/iriscsv,kaggle
 others,January Flight Delay Prediction,https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction,kaggle
-others,Job Dataset,https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset,kaggle
-others,Jobs and Salaries in Data Science,https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data,kaggle
 others,Kaggle Dataset,https://www.kaggle.com/datasets/rajugc/kaggle-dataset,kaggle
 others,Kaggle Datasets,https://www.kaggle.com/datasets/morriswongch/kaggle-datasets,kaggle
 others,Kaggle: Cat VS Dog Dataset,https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset,kaggle
@@ -1777,13 +1738,7 @@ others,Ken Jee You Tube Data,https://www.kaggle.com/datasets/kenjee/ken-jee-yout
 others,Keras Pretrained models,https://www.kaggle.com/datasets/gaborfodor/keras-pretrained-models,kaggle
 others,Kickstarter Projects,https://www.kaggle.com/datasets/kemical/kickstarter-projects,kaggle
 others,Korean Single Speaker Speech Dataset,https://www.kaggle.com/datasets/bryanpark/korean-single-speaker-speech-dataset,kaggle
-others,Kuzushiji-MNIST,https://www.kaggle.com/datasets/anokas/kuzushiji,kaggle
-others,Labelled Faces in the Wild (LFW) Dataset,https://www.kaggle.com/datasets/jessicali9530/lfw-dataset,kaggle
 others,Landscape Pictures,https://www.kaggle.com/datasets/arnaud58/landscape-pictures,kaggle
-others,Laptop Price,https://www.kaggle.com/datasets/muhammetvarl/laptop-price,kaggle
-others,Laptop Price Prediction using specifications,https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction,kaggle
-others,Laptop Prices,https://www.kaggle.com/datasets/owm4096/laptop-prices,kaggle
-others,Latest Data Science Job Salaries 2020 - 2025,https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024,kaggle
 others,Latest Data Science Salaries,https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023,kaggle
 others,Latest Netflix data with 26+ joined attributes,https://www.kaggle.com/datasets/ashishgup/netflix-rotten-tomatoes-metacritic-imdb,kaggle
 others,Latest Netflix TV shows and movies,https://www.kaggle.com/datasets/senapatirajesh/netflix-tv-shows-and-movies,kaggle
@@ -1795,7 +1750,6 @@ others,LEGO Database,https://www.kaggle.com/datasets/rtatman/lego-database,kaggl
 others,Lettuce Growth Days Analysis,https://www.kaggle.com/datasets/jurijsruko/lettuce,kaggle
 others,Life Expectancy (WHO),https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who,kaggle
 others,Life Style Data,https://www.kaggle.com/datasets/jockeroika/life-style-data,kaggle
-others,Linked In Job Postings (2023 - 2024),https://www.kaggle.com/datasets/arshkon/linkedin-job-postings,kaggle
 others,Lionel Messi All Club Goals,https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals,kaggle
 others,LISA Traffic Light Dataset,https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset,kaggle
 others,List of PyPI Packages,https://www.kaggle.com/datasets/rtatman/list-of-pypi-packages,kaggle
@@ -1807,7 +1761,6 @@ others,Los Angeles Parking Citations,https://www.kaggle.com/datasets/cityofLA/lo
 others,Lower Back Pain Symptoms Dataset,https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset,kaggle
 others,Magic The Gathering Cards,https://www.kaggle.com/datasets/mylesoneill/magic-the-gathering-cards,kaggle
 others,Malaria Bounding Boxes,https://www.kaggle.com/datasets/kmader/malaria-bounding-boxes,kaggle
-others,Malaria Cell Images Dataset,https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria,kaggle
 others,Malaria Dataset,https://www.kaggle.com/datasets/imdevskp/malaria-dataset,kaggle
 others,Malicious and Benign Websites,https://www.kaggle.com/datasets/xwolf12/malicious-and-benign-websites,kaggle
 others,Malicious URLs dataset,https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset,kaggle
@@ -1819,16 +1772,12 @@ others,Marketing Analytics,https://www.kaggle.com/datasets/jackdaoud/marketing-d
 others,Marketing Campaign,https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign,kaggle
 others,Marketing Funnel by Olist,https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist,kaggle
 others,Marvel Comic Books Dataset,https://www.kaggle.com/datasets/deepcontractor/marvel-comic-books,kaggle
-others,MATH 500: Measuring Mathematical Problem Solving,https://www.kaggle.com/datasets/open-benchmarks/math-500-measuring-mathematical-problem-solving,kaggle
 others,Math Students,https://www.kaggle.com/datasets/janiobachmann/math-students,kaggle
-others,May 2015 Reddit Comments,https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015,kaggle
 others,Mc Donald's India: Menu Nutrition Dataset,https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts,kaggle
-others,Mc Donald's Store Reviews,https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews,kaggle
 others,Medicare Data,https://www.kaggle.com/datasets/cms/cms-medicare,kaggle
 others,Medium articles dataset,https://www.kaggle.com/datasets/dorianlazar/medium-articles-dataset,kaggle
 others,Melanoma TFRecords 256x256,https://www.kaggle.com/datasets/cdeotte/melanoma-256x256,kaggle
 others,Memory Test on Drugged Islanders Data,https://www.kaggle.com/datasets/steveahn/memory-test-on-drugged-islanders-data,kaggle
-others,Merger and Acquisitions by Tech Companies,https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companies,kaggle
 others,Meta Kaggle,https://www.kaggle.com/datasets/kaggle/meta-kaggle,kaggle
 others,Meta Kaggle Code,https://www.kaggle.com/datasets/kaggle/meta-kaggle-code,kaggle
 others,MIAS Mammography,https://www.kaggle.com/datasets/kmader/mias-mammography,kaggle
@@ -1839,13 +1788,9 @@ others,Missing Migrants Project,https://www.kaggle.com/datasets/snocco/missing-m
 others,MIT-BIH Database,https://www.kaggle.com/datasets/mondejar/mitbih-database,kaggle
 others,MLB Pitch Data 2015-2018,https://www.kaggle.com/datasets/pschale/mlb-pitch-data-20152018,kaggle
 others,mlcourse.ai,https://www.kaggle.com/datasets/kashnitsky/mlcourse,kaggle
-others,MNIST as.jpg,https://www.kaggle.com/datasets/scolianni/mnistasjpg,kaggle
-others,MNIST Dataset,https://www.kaggle.com/datasets/hojjatk/mnist-dataset,kaggle
-others,MNIST in CSV,https://www.kaggle.com/datasets/oddrationale/mnist-in-csv,kaggle
 others,Mobile App Store (7200 apps),https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps,kaggle
 others,Mobile phone activity in a city,https://www.kaggle.com/datasets/marcodena/mobile-phone-activity,kaggle
 others,Mobile Phones,https://www.kaggle.com/datasets/muhammedtausif/best-selling-mobile-phones,kaggle
-others,Mobile Price Range,https://www.kaggle.com/datasets/ybifoundation/mobile-price-range,kaggle
 others,Mobiles Dataset (2025),https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025,kaggle
 others,Mohs Hardness Dataset,https://www.kaggle.com/datasets/hardikgarg03/mohs-hardness-dataset,kaggle
 others,Monty Python Flying Circus,https://www.kaggle.com/datasets/allank/monty-python-flying-circus,kaggle
@@ -1866,7 +1811,6 @@ others,Music features,https://www.kaggle.com/datasets/insiyeah/musicfeatures,kag
 others,Music Net Dataset,https://www.kaggle.com/datasets/imsparsh/musicnet-dataset,kaggle
 others,My Anime List Dataset,https://www.kaggle.com/datasets/azathoth42/myanimelist,kaggle
 others,My Uber Drives,https://www.kaggle.com/datasets/zusmani/uberdrives,kaggle
-others,Natural Images,https://www.kaggle.com/datasets/prasunroy/natural-images,kaggle
 others,NBA Database,https://www.kaggle.com/datasets/wyattowalsh/basketball,kaggle
 others,NBA Database (1947 - Present),https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores,kaggle
 others,NBA Enhanced Box Score and Standings (2012 - 2018),https://www.kaggle.com/datasets/pablote/nba-enhanced-stats,kaggle
@@ -1884,54 +1828,41 @@ others,Netflix Movies and TV Shows,https://www.kaggle.com/datasets/anandshaw2001
 others,Netflix Movies and TV Shows,https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows,kaggle
 others,Netflix Movies and TV Shows,https://www.kaggle.com/datasets/shivamb/netflix-shows,kaggle
 others,Netflix Original Films and IMDB Scores,https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores,kaggle
-others,Netflix subscription fee in different countries,https://www.kaggle.com/datasets/prasertk/netflix-subscription-price-in-different-countries,kaggle
 others,Netflix TV Shows and Movies,https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies,kaggle
 others,Network Intrusion dataset(CIC-IDS- 2017),https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset,kaggle
-others,New Car Sales in Norway,https://www.kaggle.com/datasets/dmi3kno/newcarsalesnorway,kaggle
 others,New Plant Diseases Dataset,https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset,kaggle
-others,New York City Current Job Postings,https://www.kaggle.com/datasets/new-york-city/new-york-city-current-job-postings,kaggle
-others,New York Times Comments,https://www.kaggle.com/datasets/aashita/nyt-comments,kaggle
 others,NFL Football Player Stats,https://www.kaggle.com/datasets/zynicide/nfl-football-player-stats,kaggle
 others,NFL scores and betting data,https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data,kaggle
 others,NFT Collections,https://www.kaggle.com/datasets/hemil26/nft-collections-dataset,kaggle
 others,NHL Game Data,https://www.kaggle.com/datasets/martinellis/nhl-game-data,kaggle
 others,Nifty Indices Dataset,https://www.kaggle.com/datasets/sudalairajkumar/nifty-indices-dataset,kaggle
-others,NIFTY-50 Stocks Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset,kaggle
 others,NIH Chest X-rays,https://www.kaggle.com/datasets/nih-chest-xrays/data,kaggle
 others,NIPS Papers,https://www.kaggle.com/datasets/benhamner/nips-papers,kaggle
 others,No Data Sources,https://www.kaggle.com/datasets/kaggle/no-data-sources,kaggle
 others,Notebooks of the Week - Hidden Gems,https://www.kaggle.com/datasets/headsortails/notebooks-of-the-week-hidden-gems,kaggle
 others,Novel Corona Virus 2019 Dataset,https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset,kaggle
 others,NSE - Nifty 50 Index Minute data (2015 to 2026),https://www.kaggle.com/datasets/debashis74017/nifty-50-minute-data,kaggle
-others,NSE Stocks Data,https://www.kaggle.com/datasets/minatverma/nse-stocks-data,kaggle
 others,NSL-KDD,https://www.kaggle.com/datasets/hassan06/nslkdd,kaggle
-others,NumtaDB: Bengali Handwritten Digits,https://www.kaggle.com/datasets/BengaliAI/numta,kaggle
 others,Nutrition Facts for Mc Donald's Menu,https://www.kaggle.com/datasets/mcdonalds/nutrition-facts,kaggle
 others,Nutrition facts for Starbucks Menu,https://www.kaggle.com/datasets/starbucks/starbucks-menu,kaggle
 others,NYC Parking Tickets,https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets,kaggle
-others,NYC Property Sales,https://www.kaggle.com/datasets/new-york-city/nyc-property-sales,kaggle
 others,NYS Environmental Remediation Sites,https://www.kaggle.com/datasets/new-york-state/nys-environmental-remediation-sites,kaggle
 others,"Obesity among adults by country, 1975-2016",https://www.kaggle.com/datasets/amanarora/obesity-among-adults-by-country-19752016,kaggle
 others,Obesity Levels,https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels,kaggle
 others,Obesity or CVD risk (Classify/Regressor/Cluster),https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster,kaggle
-others,"Oil Pipeline Accidents, 2010-Present",https://www.kaggle.com/datasets/usdot/pipeline-accidents,kaggle
 others,Olympic Data,https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data,kaggle
 others,"Olympic Sports and Medals, 1896-2014",https://www.kaggle.com/datasets/the-guardian/olympic-games,kaggle
 others,"Olympic Summer and Winter Games, 1896-2022",https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018,kaggle
-others,Online Business Sales 2017-2019,https://www.kaggle.com/datasets/tylermorse/retail-business-sales-20172019,kaggle
 others,Online Courses from Harvard and MIT,https://www.kaggle.com/datasets/edx/course-study,kaggle
 others,Online Food Dataset,https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset,kaggle
 others,Online Gaming Anxiety Data,https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data,kaggle
-others,Online Job Postings,https://www.kaggle.com/datasets/madhab/jobposts,kaggle
 others,Online Retail Data Set,https://www.kaggle.com/datasets/vijayuv/onlineretail,kaggle
 others,Online Retail Dataset,https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset,kaggle
-others,Online Sales Dataset - Popular Marketplace Data,https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data,kaggle
 others,Online Shoppers Purchasing Intention Dataset,https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset,kaggle
 others,Online Shopping Dataset,https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset,kaggle
 others,Open Asteroid Dataset,https://www.kaggle.com/datasets/basu369victor/prediction-of-asteroid-diameter,kaggle
 others,Open Exoplanet Catalogue,https://www.kaggle.com/datasets/mrisdal/open-exoplanet-catalogue,kaggle
 others,Open Food Facts,https://www.kaggle.com/datasets/openfoodfacts/world-food-facts,kaggle
-others,Open Images,https://www.kaggle.com/datasets/bigquery/open-images,kaggle
 others,Open University Learning Analytics Dataset,https://www.kaggle.com/datasets/rocki37/open-university-learning-analytics-dataset,kaggle
 others,OpenAQ,https://www.kaggle.com/datasets/open-aq/openaq,kaggle
 others,Otto Full Optimized Memory Footprint,https://www.kaggle.com/datasets/radek1/otto-full-optimized-memory-footprint,kaggle
@@ -1949,12 +1880,8 @@ others,PASCAL VOC 2007,https://www.kaggle.com/datasets/zaraks/pascal-voc-2007,ka
 others,PASCAL VOC 2012,https://www.kaggle.com/datasets/huanghanchina/pascal-voc-2012,kaggle
 others,Penguin Sizes Dataset,https://www.kaggle.com/datasets/amulyas/penguin-size-dataset,kaggle
 others,Perfume E-Commerce Dataset 2024,https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024,kaggle
-others,Petrol/Gas Prices Worldwide,https://www.kaggle.com/datasets/zusmani/petrolgas-prices-worldwide,kaggle
-others,Pfizer Vaccine Tweets,https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets,kaggle
-others,Pharma sales data,https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data,kaggle
 others,Phishing Site URLs,https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls,kaggle
 others,Pistachio Dataset,https://www.kaggle.com/datasets/muratkokludataset/pistachio-dataset,kaggle
-others,Pizza Restaurant Sales,https://www.kaggle.com/datasets/shilongzhuang/pizza-sales,kaggle
 others,Pizza Restaurants and the Pizza They Sell,https://www.kaggle.com/datasets/datafiniti/pizza-restaurants-and-the-pizza-they-sell,kaggle
 others,Planet Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/planet-dataset,kaggle
 others,Plant Village,https://www.kaggle.com/datasets/arjuntejaswi/plant-village,kaggle
@@ -1962,7 +1889,6 @@ others,Plant Village Dataset,https://www.kaggle.com/datasets/abdallahalidev/plan
 others,Plant Village Dataset,https://www.kaggle.com/datasets/emmarex/plantdisease,kaggle
 others,PM2.5 Data of Five Chinese Cities,https://www.kaggle.com/datasets/uciml/pm25-data-for-five-chinese-cities,kaggle
 others,Pokemon Generation One,https://www.kaggle.com/datasets/thedagger/pokemon-generation-one,kaggle
-others,Pokemon Images Dataset,https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset,kaggle
 others,Pokemon with stats,https://www.kaggle.com/datasets/abcsds/pokemon,kaggle
 others,Police Violence and Racial Equity - Part 1 of 2,https://www.kaggle.com/datasets/jpmiller/police-violence-in-the-us,kaggle
 others,Polycystic ovary syndrome (PCOS),https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos,kaggle
@@ -1981,11 +1907,8 @@ others,Pumpkin Leaf Diseases Dataset,https://www.kaggle.com/datasets/tahmidmir/p
 others,Pumpkin Seeds Dataset,https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset,kaggle
 others,Python Data Science Handbook,https://www.kaggle.com/datasets/timoboz/python-data-science-handbook,kaggle
 others,Python Datatable,https://www.kaggle.com/datasets/rohanrao/python-datatable,kaggle
-others,Python Questions from Stack Overflow,https://www.kaggle.com/datasets/stackoverflow/pythonquestions,kaggle
 others,QS World University Rankings 2025,https://www.kaggle.com/datasets/melissamonfared/qs-world-university-rankings-2025,kaggle
 others,Quality Prediction in a Mining Process,https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process,kaggle
-others,Question Pairs Dataset,https://www.kaggle.com/datasets/quora/question-pairs-dataset,kaggle
-others,Question-Answer Dataset,https://www.kaggle.com/datasets/rtatman/questionanswer-dataset,kaggle
 others,Quick Draw Sketches,https://www.kaggle.com/datasets/google/tinyquickdraw,kaggle
 others,Rainfall in India,https://www.kaggle.com/datasets/rajanand/rainfall-in-india,kaggle
 others,Rainfall in Pakistan,https://www.kaggle.com/datasets/zusmani/rainfall-in-pakistan,kaggle
@@ -1993,63 +1916,44 @@ others,Raisin Dataset,https://www.kaggle.com/datasets/muratkokludataset/raisin-d
 others,Ramen Ratings,https://www.kaggle.com/datasets/residentmario/ramen-ratings,kaggle
 others,RAPIDS,https://www.kaggle.com/datasets/cdeotte/rapids,kaggle
 others,RAVDESS Emotional speech audio,https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio,kaggle
-others,Real /Fake Job Posting Prediction,https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction,kaggle
 others,Real Eastate,https://www.kaggle.com/datasets/tahmidmir/realeastate,kaggle
 others,Real Estate Data Set,https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset,kaggle
-others,Real estate price prediction,https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction,kaggle
 others,Real Life Violence Situations Dataset,https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset,kaggle
 others,Real World Smartphone's Dataset,https://www.kaggle.com/datasets/abhijitdahatonde/real-world-smartphones-dataset,kaggle
 others,Recipe Ingredients Dataset,https://www.kaggle.com/datasets/kaggle/recipe-ingredients-dataset,kaggle
 others,Red Wine Quality,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009,kaggle
 others,Reddit - Data is Beautiful,https://www.kaggle.com/datasets/unanimad/dataisbeautiful,kaggle
-others,Reddit Memes Dataset,https://www.kaggle.com/datasets/sayangoswami/reddit-memes-dataset,kaggle
 others,Reddit Vaccine Myths,https://www.kaggle.com/datasets/gpreda/reddit-vaccine-myths,kaggle
 others,Reddit Wall Street Bets Posts,https://www.kaggle.com/datasets/gpreda/reddit-wallstreetsbets-posts,kaggle
 others,Res Net-50,https://www.kaggle.com/datasets/crawford/resnet50,kaggle
 others,Respiratory Sound Database,https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database,kaggle
 others,Restaurant Business Rankings 2020,https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020,kaggle
-others,Restaurant Sales report,https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report,kaggle
 others,Restaurant's cuisine ratings data (for EDA),https://www.kaggle.com/datasets/surajjha101/cuisine-rating,kaggle
 others,Resume Dataset,https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset,kaggle
 others,Resume Entities for NER,https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner,kaggle
 others,Retail Data Analytics,https://www.kaggle.com/datasets/manjeetsingh/retaildataset,kaggle
 others,Retail Product Checkout Dataset,https://www.kaggle.com/datasets/diyer22/retail-product-checkout-dataset,kaggle
-others,Retail Sales Dataset,https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset,kaggle
 others,Retail Supermarket,https://www.kaggle.com/datasets/roopacalistus/superstore,kaggle
-others,Retinal OCT Images (optical coherence tomography),https://www.kaggle.com/datasets/paultimothymooney/kermany2018,kaggle
 others,Rice Dataset Commeo and Osmancik,https://www.kaggle.com/datasets/muratkokludataset/rice-dataset-commeo-and-osmancik,kaggle
 others,Rice Leaf Diseases Dataset,https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases,kaggle
 others,Rice Leafs,https://www.kaggle.com/datasets/shayanriyaz/riceleafs,kaggle
 others,Rice MSC Dataset,https://www.kaggle.com/datasets/muratkokludataset/rice-msc-dataset,kaggle
-others,Road Vehicle Images Dataset,https://www.kaggle.com/datasets/ashfakyeafi/road-vehicle-images-dataset,kaggle
 others,roberta-base,https://www.kaggle.com/datasets/abhishek/roberta-base,kaggle
-others,Rock-Paper-Scissors Images,https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors,kaggle
 others,Roller Coaster Database,https://www.kaggle.com/datasets/robikscube/rollercoaster-database,kaggle
 others,Rounds and Retention,https://www.kaggle.com/datasets/matinmahmoudi/rounds-and-retention,kaggle
 others,RSNA Bone Age,https://www.kaggle.com/datasets/kmader/rsna-bone-age,kaggle
-others,"RSNA Mammo PNGs 256px, 384px, 512px, 768px, 1024px",https://www.kaggle.com/datasets/radek1/rsna-mammography-images-as-pngs,kaggle
-others,Russian Troll Tweets,https://www.kaggle.com/datasets/vikasg/russian-troll-tweets,kaggle
+others,RSNA MICCAI PNG,https://www.kaggle.com/datasets/jonathanbesomi/rsna-miccai-png,kaggle
 others,Salary,https://www.kaggle.com/datasets/rsadiq/salary,kaggle
-others,Salary Prediction,https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor,kaggle
 others,Salary Prediction dataset,https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer,kaggle
 others,Salary_Data,https://www.kaggle.com/datasets/mohithsairamreddy/salary-data,kaggle
-others,Sales and Satisfaction,https://www.kaggle.com/datasets/matinmahmoudi/sales-and-satisfaction,kaggle
-others,Sales Conversion Optimization,https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking,kaggle
-others,sales dataset,https://www.kaggle.com/datasets/vinothkannaece/sales-dataset,kaggle
-others,Sales of summer clothes in E-commerce Wish,https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish,kaggle
-others,Sample Sales Data,https://www.kaggle.com/datasets/kyanyoga/sample-sales-data,kaggle
 others,Sample Superstore Dataset,https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset,kaggle
 others,San Francisco Building Permits,https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data,kaggle
 others,Sarcasm on Reddit,https://www.kaggle.com/datasets/danofer/sarcasm,kaggle
 others,SARS 2003 Outbreak Dataset,https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-complete-dataset,kaggle
-others,SARS CORONAVIRUS ACCESSION,https://www.kaggle.com/datasets/jamzing/sars-coronavirus-accession,kaggle
-others,Sci Code,https://www.kaggle.com/datasets/open-benchmarks/scicode,kaggle
 others,Scrabble Games,https://www.kaggle.com/datasets/melissamonfared/scrabble-games,kaggle
 others,Search Engine Results - Flights and Tickets Keywords,https://www.kaggle.com/datasets/eliasdabbas/search-engine-results-flights-tickets-keywords,kaggle
 others,Segmenting Soft Tissue Sarcomas,https://www.kaggle.com/datasets/4quant/soft-tissue-sarcoma,kaggle
 others,Seinfeld Chronicles,https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles,kaggle
-others,Sentiment140 dataset with 1.6 million tweets,https://www.kaggle.com/datasets/kazanova/sentiment140,kaggle
-others,Sephora Products and Skincare Reviews,https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews,kaggle
 others,SF Bay Area Bike Share,https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share,kaggle
 others,SF Salaries,https://www.kaggle.com/datasets/kaggle/sf-salaries,kaggle
 others,Shopify app store,https://www.kaggle.com/datasets/usernam3/shopify-app-store,kaggle
@@ -2064,7 +1968,6 @@ others,Spanish Wine Quality Dataset,https://www.kaggle.com/datasets/fedesoriano/
 others,Speech Accent Archive,https://www.kaggle.com/datasets/rtatman/speech-accent-archive,kaggle
 others,Speech Emotion Recognition (en),https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en,kaggle
 others,Speed Dating Experiment,https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment,kaggle
-others,Sports Car Prices dataset,https://www.kaggle.com/datasets/rkiattisak/sports-car-prices-dataset,kaggle
 others,Spotify 1.2M+ Songs,https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs,kaggle
 others,Spotify and Youtube,https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube,kaggle
 others,Spotify Charts,https://www.kaggle.com/datasets/dhruvildave/spotify-charts,kaggle
@@ -2083,8 +1986,6 @@ others,Spotify's Long Hits (2014-2024),https://www.kaggle.com/datasets/kanchana1
 others,sql injection dataset,https://www.kaggle.com/datasets/syedsaqlainhussain/sql-injection-dataset,kaggle
 others,SQL Murder Mystery Database,https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database,kaggle
 others,sRNA sequencing - Pancreas (GSE84133),https://www.kaggle.com/datasets/usharengaraju/indian-women-rehabilitation,kaggle
-others,Stack Overflow Data,https://www.kaggle.com/datasets/stackoverflow/stackoverflow,kaggle
-others,Stack Sample: 10% of Stack Overflow Q and A,https://www.kaggle.com/datasets/stackoverflow/stacksample,kaggle
 others,Stanford Car Dataset by classes folder,https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder,kaggle
 others,Stanford Dogs Dataset,https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset,kaggle
 others,Star Cluster Simulations,https://www.kaggle.com/datasets/mariopasquato/star-cluster-simulations,kaggle
@@ -2099,7 +2000,6 @@ others,State of Data Brazil 2022-2023,https://www.kaggle.com/datasets/datahacker
 others,State of Data Brazil 2023-2024,https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023,kaggle
 others,State of Data Brazil 2024-2025,https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025,kaggle
 others,Steam Games Dataset,https://www.kaggle.com/datasets/fronkongames/steam-games-dataset,kaggle
-others,Steam Store 2024: Hot Picks and Reviews,https://www.kaggle.com/datasets/kanchana1990/steam-store-2024-hot-picks-and-reviews,kaggle
 others,Steam Store Games (Clean dataset),https://www.kaggle.com/datasets/nikdavis/steam-store-games,kaggle
 others,Stroke Prediction Dataset,https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset,kaggle
 others,Students Exam Scores: Extended Dataset,https://www.kaggle.com/datasets/desalegngeb/students-exam-scores,kaggle
@@ -2116,14 +2016,8 @@ others,Summer Olympics Medals (1976-2008),https://www.kaggle.com/datasets/divyan
 others,Sunspots,https://www.kaggle.com/datasets/robervalt/sunspots,kaggle
 others,Super Heroes Dataset,https://www.kaggle.com/datasets/claudiodavi/superhero-set,kaggle
 others,Superbowl History 1967 - 2020,https://www.kaggle.com/datasets/timoboz/superbowl-history-1967-2020,kaggle
-others,Supermarket Sales Data,https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data,kaggle
-others,Supermarket Sales Dataset,https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales,kaggle
-others,Supermarket store branches sales analysis,https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data,kaggle
-others,Supermart Grocery Sales - Retail Analytics Dataset,https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset,kaggle
 others,Superstore Dataset,https://www.kaggle.com/datasets/vivek468/superstore-dataset-final,kaggle
 others,Superstore Marketing Campaign Dataset,https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset,kaggle
-others,Superstore Sales,https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales,kaggle
-others,Superstore Sales,https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales,kaggle
 others,superstore_data,https://www.kaggle.com/datasets/jr2ngb/superstore-data,kaggle
 others,Supply Chain Analysis,https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis,kaggle
 others,Swiggy Restaurants dataset,https://www.kaggle.com/datasets/abhijitdahatonde/swiggy-restuarant-dataset,kaggle
@@ -2134,7 +2028,6 @@ others,TED Talks,https://www.kaggle.com/datasets/ashishjangra27/ted-talks,kaggle
 others,TED Talks,https://www.kaggle.com/datasets/rounakbanik/ted-talks,kaggle
 others,Telecom Churn Dataset,https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets,kaggle
 others,Teo Me Why Loyalty System,https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system,kaggle
-others,Tesla share price since it listed,https://www.kaggle.com/datasets/surajjha101/tesla-share-price-for-last-5-years,kaggle
 others,The Complete Pokemon Dataset,https://www.kaggle.com/datasets/rounakbanik/pokemon,kaggle
 others,The Depression Dataset,https://www.kaggle.com/datasets/arashnic/the-depression-dataset,kaggle
 others,The Economic Freedom Index,https://www.kaggle.com/datasets/lewisduncan93/the-economic-freedom-index,kaggle
@@ -2164,9 +2057,7 @@ others,TMDB 5000 Movie Dataset,https://www.kaggle.com/datasets/tmdb/tmdb-movie-m
 others,TMDB Website Movie Database,https://www.kaggle.com/datasets/omercolakoglu/tmdb-website-movie-database,kaggle
 others,TMNIST Alphabet (94 characters),https://www.kaggle.com/datasets/nikbearbrown/tmnist-alphabet-94-characters,kaggle
 others,Tomato,https://www.kaggle.com/datasets/noulam/tomato,kaggle
-others,Top 100 Bestselling Book Reviews on Amazon,https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews,kaggle
 others,Top 1000 Highest Grossing Movies,https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies,kaggle
-others,TOP 50 Cryptocurrencies Historical Prices,https://www.kaggle.com/datasets/odins0n/top-50-cryptocurrency-historical-prices,kaggle
 others,Top 50 Spotify Songs - 2019,https://www.kaggle.com/datasets/leonardopena/top50spotify2019,kaggle
 others,Top Football Leagues Scorers,https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-scorers,kaggle
 others,Top Games on Google Play Store,https://www.kaggle.com/datasets/dhruvildave/top-play-store-games,kaggle
@@ -2181,23 +2072,15 @@ others,Top Spotify Tracks of 2018,https://www.kaggle.com/datasets/nadintamer/top
 others,Top Streamers on Twitch,https://www.kaggle.com/datasets/aayushmishra1512/twitchdata,kaggle
 others,Toronto emotional speech set (TESS),https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess,kaggle
 others,Toy Dataset,https://www.kaggle.com/datasets/carlolepelaars/toy-dataset,kaggle
-others,Traffic Accidents,https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents,kaggle
 others,Traffic Prediction Dataset,https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset,kaggle
 others,Traffic Signs Dataset in YOLO format,https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format,kaggle
 others,Traffic Signs Preprocessed,https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed,kaggle
 others,Transit systems of world,https://www.kaggle.com/datasets/citylines/city-lines,kaggle
 others,Traveler Trip Dataset,https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data,kaggle
-others,Trip Advisor Hotel Reviews,https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews,kaggle
 others,Trip Advisor Restaurants Info for 31 Euro-Cities,https://www.kaggle.com/datasets/damienbeneschi/krakow-ta-restaurans-data-raw,kaggle
-others,Trump Tweets,https://www.kaggle.com/datasets/austinreese/trump-tweets,kaggle
 others,Tu Simple,https://www.kaggle.com/datasets/manideep1108/tusimple,kaggle
-others,Turkish Market Sales Dataset With 9.000+Items,https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items,kaggle
-others,Tweets about the Top Companies from 2015 to 2020,https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020,kaggle
 others,U.S. Educational Finances,https://www.kaggle.com/datasets/noriuk/us-educational-finances,kaggle
-others,U.S. Gasoline and Diesel Retail Prices 1995-2021,https://www.kaggle.com/datasets/mruanova/us-gasoline-and-diesel-retail-prices-19952021,kaggle
-others,U.S. Healthcare Data,https://www.kaggle.com/datasets/maheshdadhich/us-healthcare-data,kaggle
 others,U.S. Opiate Prescriptions/Overdoses,https://www.kaggle.com/datasets/apryor6/us-opiate-prescriptions,kaggle
-others,Uber and Lyft Cab prices,https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices,kaggle
 others,"Uber and Lyft Dataset Boston, MA",https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma,kaggle
 others,Uber Data Analytics Dashboard,https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard,kaggle
 others,Uber Fares Dataset,https://www.kaggle.com/datasets/yasserh/uber-fares-dataset,kaggle
@@ -2206,8 +2089,6 @@ others,UCL Matches and Players Data,https://www.kaggle.com/datasets/azminetoushi
 others,Udemy Courses,https://www.kaggle.com/datasets/andrewmvd/udemy-courses,kaggle
 others,UFC-Fight historical data from 1993 to 2021,https://www.kaggle.com/datasets/rajeevw/ufcdata,kaggle
 others,UFO Sightings,https://www.kaggle.com/datasets/NUFORC/ufo-sightings,kaggle
-others,UK Car Accidents 2005-2015,https://www.kaggle.com/datasets/silicon99/dft-accident-data,kaggle
-others,UK Road Safety: Traffic Accidents and Vehicles,https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles,kaggle
 others,Ultimate UFC Dataset,https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset,kaggle
 others,Unemployment dataset,https://www.kaggle.com/datasets/pantanjali/unemployment-dataset,kaggle
 others,Unicorn Startups,https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups,kaggle
@@ -2215,7 +2096,6 @@ others,Unsupervised Learning on Country Data,https://www.kaggle.com/datasets/roh
 others,UNSW_NB15,https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15,kaggle
 others,Urban Dictionary Words And Definitions,https://www.kaggle.com/datasets/therohk/urban-dictionary-words-dataset,kaggle
 others,Urban Sound8K,https://www.kaggle.com/datasets/chrisfilo/urbansound8k,kaggle
-others,US Accidents (2016 - 2023),https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents,kaggle
 others,US Baby Names,https://www.kaggle.com/datasets/kaggle/us-baby-names,kaggle
 others,US Border Crossing Data,https://www.kaggle.com/datasets/divyansh22/us-border-crossing-data,kaggle
 others,US Cars Dataset,https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset,kaggle
@@ -2225,23 +2105,18 @@ others,US Minimum Wage by State from 1968 to 2020,https://www.kaggle.com/dataset
 others,US Permanent Visa Applications,https://www.kaggle.com/datasets/jboysen/us-perm-visas,kaggle
 others,US Police Shootings,https://www.kaggle.com/datasets/ahsen1330/us-police-shootings,kaggle
 others,US Public Food Assistance 1 - WIC,https://www.kaggle.com/datasets/jpmiller/publicassistance,kaggle
-others,US Stocks Fundamentals (XBRL),https://www.kaggle.com/datasets/usfundamentals/us-stocks-fundamentals,kaggle
 others,US Traffic Fatality Records,https://www.kaggle.com/datasets/usdot/nhtsa-traffic-fatalities,kaggle
 others,"US Unemployment Rate by County, 1990-2016",https://www.kaggle.com/datasets/jayrav13/unemployment-by-county-us,kaggle
 others,USA Name Data,https://www.kaggle.com/datasets/datagov/usa-names,kaggle
 others,USA Real Estate Dataset,https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset,kaggle
-others,Used Car Price Prediction Dataset,https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset,kaggle
 others,Used Cars Dataset,https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data,kaggle
-others,Used Cars Price Prediction,https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction,kaggle
 others,Used-cars-catalog,https://www.kaggle.com/datasets/lepchenkov/usedcarscatalog,kaggle
 others,UTKFace,https://www.kaggle.com/datasets/jangedoo/utkface-new,kaggle
 others,V2 Plant Seedlings Dataset,https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset,kaggle
 others,Vehicle dataset,https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho,kaggle
-others,Vehicle Sales Data,https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data,kaggle
 others,VGG-16,https://www.kaggle.com/datasets/crawford/vgg16,kaggle
 others,Volcanic Eruptions in the Holocene Period,https://www.kaggle.com/datasets/smithsonian/volcanic-eruptions,kaggle
 others,Walmart Dataset,https://www.kaggle.com/datasets/yasserh/walmart-dataset,kaggle
-others,Walmart Sales,https://www.kaggle.com/datasets/mikhail1681/walmart-sales,kaggle
 others,weight-height.csv,https://www.kaggle.com/datasets/mustafaali96/weight-height,kaggle
 others,Where it Pays to Attend College,https://www.kaggle.com/datasets/wsj/college-salaries,kaggle
 others,Who eats the food we grow?,https://www.kaggle.com/datasets/dorbicycle/world-foodfeed-production,kaggle
@@ -2253,9 +2128,6 @@ others,"Win-Go, Color_Prediction",https://www.kaggle.com/datasets/najeedosmani/w
 others,Windows Store,https://www.kaggle.com/datasets/vishnuvarthanrao/windows-store,kaggle
 others,Wine Quality,https://www.kaggle.com/datasets/rajyellow46/wine-quality,kaggle
 others,Wine Quality Dataset,https://www.kaggle.com/datasets/yasserh/wine-quality-dataset,kaggle
-others,Wine Reviews,https://www.kaggle.com/datasets/zynicide/wine-reviews,kaggle
-others,Women's E-Commerce Clothing Reviews,https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews,kaggle
-others,Women's Shoe Prices,https://www.kaggle.com/datasets/datafiniti/womens-shoes-prices,kaggle
 others,World cities database,https://www.kaggle.com/datasets/juanmah/world-cities,kaggle
 others,World Cities Database,https://www.kaggle.com/datasets/max-mind/world-cities-database,kaggle
 others,World Development Indicators,https://www.kaggle.com/datasets/kaggle/world-development-indicators,kaggle
@@ -2265,10 +2137,8 @@ others,World Educational Data,https://www.kaggle.com/datasets/nelgiriyewithana/w
 others,World Soccer DB: archive of odds [01-JUN-2021],https://www.kaggle.com/datasets/sashchernuh/european-football,kaggle
 others,World University Rankings,https://www.kaggle.com/datasets/mylesoneill/world-university-rankings,kaggle
 others,Worldwide Average IQ Levels,https://www.kaggle.com/datasets/abhijitdahatonde/worldwide-average-iq-levels,kaggle
-others,XAU/USD Gold Price Historical Data (2004-2026),https://www.kaggle.com/datasets/novandraanugrah/xauusd-gold-price-historical-data-2004-2024,kaggle
 others,Yelp Dataset,https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset,kaggle
 others,Yoga Poses Dataset,https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset,kaggle
-others,ZARA Sales,https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara,kaggle
 others,Zika Virus Epidemic,https://www.kaggle.com/datasets/cdc/zika-virus-epidemic,kaggle
 others,Zillow Economics Data,https://www.kaggle.com/datasets/zillow/zecon,kaggle
 others,Zomato,https://www.kaggle.com/datasets/rishikeshkonapure/zomato,kaggle
@@ -2707,7 +2577,6 @@ public,EM Thematic Bond Database,https://data360.worldbank.org/en/dataset/IFC_GB
 public,Emissions Database,https://data360.worldbank.org/en/dataset/FAO_EMS,worldbank
 public,Emissions Database for Global Atmospheric Research (EDGAR),https://data360.worldbank.org/en/dataset/JRC_EDGAR,worldbank
 public,Emissions Totals,https://data360.worldbank.org/en/dataset/FAO_EMSTOT,worldbank
-public,Environmental Taxes,https://data360.worldbank.org/en/dataset/IMF_ET,worldbank
 public,Fiscal Decentralization,https://data360.worldbank.org/en/dataset/IMF_FISCALDECENTRALIZATION,worldbank
 public,Fiscal Monitor (FM),https://data360.worldbank.org/en/dataset/IMF_FM,worldbank
 public,Food Balance Sheet,https://data360.worldbank.org/en/dataset/FAO_FBS,worldbank
@@ -2888,18 +2757,28 @@ social,unisex-names,https://github.com/fivethirtyeight/data/tree/master/unisex-n
 social,urbanization-index,https://github.com/fivethirtyeight/data/tree/master/urbanization-index,fivethirtyeight
 social,voter-registration,https://github.com/fivethirtyeight/data/tree/master/voter-registration,fivethirtyeight
 social,wnba-forecasts,https://github.com/fivethirtyeight/data/tree/master/wnba-forecasts,fivethirtyeight
+social,1.3M Linkedin Jobs and Skills (2024),https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024,kaggle
+social,1.6 million UK traffic accidents,https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales,kaggle
 social,2016 US Election,https://www.kaggle.com/datasets/benhamner/2016-us-election,kaggle
 social,2017 Kaggle Machine Learning and Data Science Survey,https://www.kaggle.com/datasets/kaggle/kaggle-survey-2017,kaggle
 social,2018 Kaggle Machine Learning and Data Science Survey,https://www.kaggle.com/datasets/kaggle/kaggle-survey-2018,kaggle
 social,2020 US General Election Turnout Rates,https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates,kaggle
+social,2022 Russia Ukraine War,https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war,kaggle
 social,2024 USA Election Polling Data,https://www.kaggle.com/datasets/iamtanmayshukla/2024-u-s-election-generic-ballot-polling-data,kaggle
 social,500 Person Gender-Height-Weight-Body Mass Index,https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex,kaggle
+social,7+ Million Company Dataset,https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset,kaggle
+social,Accidents in France from 2005 to 2016,https://www.kaggle.com/datasets/ahmedlahlou/accidents-in-france-from-2005-to-2016,kaggle
 social,Adult Census Income,https://www.kaggle.com/datasets/uciml/adult-census-income,kaggle
 social,Adult income dataset,https://www.kaggle.com/datasets/wenruliu/adult-income-dataset,kaggle
+social,Aerial Bombing Operations in World War II,https://www.kaggle.com/datasets/usaf/world-war-ii,kaggle
 social,AI Assistant Usage in Student Life,https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic,kaggle
+social,AI Impact on Jobs 2030,https://www.kaggle.com/datasets/khushikyad001/ai-impact-on-jobs-2030,kaggle
+social,AI-Powered Job Market Insights,https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights,kaggle
+social,Airbnb Listings 2016 Dataset,https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset,kaggle
 social,Airlines Customer satisfaction,https://www.kaggle.com/datasets/sjleshrac/airlines-customer-satisfaction,kaggle
 social,Amazon consumer Behaviour Dataset,https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset,kaggle
 social,Analyzing Student Academic Trends,https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends,kaggle
+social,Armenian Online Job Postings,https://www.kaggle.com/datasets/udacity/armenian-online-job-postings,kaggle
 social,Australian Election 2019 Tweets,https://www.kaggle.com/datasets/taniaj/australian-election-2019-tweets,kaggle
 social,Average Time Spent By A User On Social Media,https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media,kaggle
 social,Boston Housing,https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd,kaggle
@@ -2912,6 +2791,7 @@ social,Cambridge Crime Data,https://www.kaggle.com/datasets/melissamonfared/camb
 social,Census Data for Go Daddy,https://www.kaggle.com/datasets/cdeotte/census-data-for-godaddy,kaggle
 social,Chicago Crime,https://www.kaggle.com/datasets/chicago/chicago-crime,kaggle
 social,College Student Placement Factors Dataset,https://www.kaggle.com/datasets/sahilislam007/college-student-placement-factors-dataset,kaggle
+social,Company Bankruptcy Prediction,https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction,kaggle
 social,Confused student EEG brainwave data,https://www.kaggle.com/datasets/wanghaohan/confused-eeg,kaggle
 social,Consumer Reviews of Amazon Products,https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products,kaggle
 social,Cost of International Education,https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education,kaggle
@@ -2926,7 +2806,15 @@ social,Customer Purchase,https://www.kaggle.com/datasets/ybifoundation/customer-
 social,Customer Shopping (Latest Trends) Dataset,https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset,kaggle
 social,Customer Shopping Dataset - Retail Sales Data,https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset,kaggle
 social,Customer Shopping Trends Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset,kaggle
+social,"Data Analyst Job Postings [Pay, Skills, Benefits]",https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search,kaggle
+social,Data Analyst Jobs,https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs,kaggle
 social,Data Hackers Survey 2019-2020,https://www.kaggle.com/datasets/datahackers/pesquisa-data-hackers-2019,kaggle
+social,Data Science Job Posting on Glassdoor,https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor,kaggle
+social,Data Science Job Salaries,https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries,kaggle
+social,Data Science Jobs Salaries Dataset,https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries,kaggle
+social,"Data Science, AI and ML Job Salaries in 2025",https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs,kaggle
+social,Data Scientist Job Market in the U.S,https://www.kaggle.com/datasets/sl6149/data-scientist-job-market-in-the-us,kaggle
+social,Demographics of Academy Awards (Oscars) Winners,https://www.kaggle.com/datasets/fmejia21/demographics-of-academy-awards-oscars-winners,kaggle
 social,Denver Crime Data,https://www.kaggle.com/datasets/paultimothymooney/denver-crime-data,kaggle
 social,e Commerce behavior data from multi category store,https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store,kaggle
 social,E-Commerce Customer Behavior and Sales Analysis -TR,https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr,kaggle
@@ -2938,13 +2826,17 @@ social,Education and Career Success,https://www.kaggle.com/datasets/adilshamim8/
 social,Education in India,https://www.kaggle.com/datasets/rajanand/education-in-india,kaggle
 social,Education Statistics,https://www.kaggle.com/datasets/theworldbank/education-statistics,kaggle
 social,EU LGBT Survey,https://www.kaggle.com/datasets/ruslankl/european-union-lgbt-survey-2012,kaggle
+social,Explore Datascience Opportunities on Linked In,https://www.kaggle.com/datasets/marianadeem755/explore-exciting-opportunities-on-linkedin,kaggle
 social,Extrovert vs. Introvert Behavior Data,https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data,kaggle
 social,Filipino Family Income and Expenditure,https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure,kaggle
+social,Fortune 500 Companies of 2017 in US [Latest],https://www.kaggle.com/datasets/shaz13/fotune500-2017,kaggle
 social,"French employment, salaries, population per town",https://www.kaggle.com/datasets/etiennelq/french-employment-by-town,kaggle
 social,Gender Classification,https://www.kaggle.com/datasets/hb20007/gender-classification,kaggle
 social,Gender Classification Dataset,https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset,kaggle
 social,Gender Classification Dataset,https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset,kaggle
 social,Gender Recognition by Voice,https://www.kaggle.com/datasets/primaryobjects/voicegender,kaggle
+social,Global AI Job Market and Salary Trends 2025,https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025,kaggle
+social,Google Job Skills,https://www.kaggle.com/datasets/niyamatalmass/google-job-skills,kaggle
 social,Hacker Rank Developer Survey 2018,https://www.kaggle.com/datasets/hackerrank/developer-survey-2018,kaggle
 social,Housing in London,https://www.kaggle.com/datasets/justinas/housing-in-london,kaggle
 social,Housing price in Beijing,https://www.kaggle.com/datasets/ruiqurm/lianjia,kaggle
@@ -2952,22 +2844,34 @@ social,Housing Price Prediction,https://www.kaggle.com/datasets/harishkumardatal
 social,Housing Price Prediction Data,https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data,kaggle
 social,Housing Prices Dataset,https://www.kaggle.com/datasets/yasserh/housing-prices-dataset,kaggle
 social,Housing Prices in Metropolitan Areas of India,https://www.kaggle.com/datasets/ruchi798/housing-prices-in-metropolitan-areas-of-india,kaggle
+social,HR Analytics: Job Change of Data Scientists,https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists,kaggle
 social,Income classification,https://www.kaggle.com/datasets/lodetomasi1995/income-classification,kaggle
 social,Income Dataset,https://www.kaggle.com/datasets/mastmustu/income,kaggle
+social,Indian Companies Registration Data [1857 - 2020],https://www.kaggle.com/datasets/rowhitswami/all-indian-companies-registration-data-1900-2019,kaggle
 social,Indian School Education Statistics,https://www.kaggle.com/datasets/vidyapb/indian-school-education-statistics,kaggle
+social,Job Dataset,https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset,kaggle
+social,Jobs and Salaries in Data Science,https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data,kaggle
+social,Latest Data Science Job Salaries 2020 - 2025,https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024,kaggle
+social,Linked In Job Postings (2023 - 2024),https://www.kaggle.com/datasets/arshkon/linkedin-job-postings,kaggle
 social,London Crime Data,https://www.kaggle.com/datasets/LondonDataStore/london-crime,kaggle
 social,"London Crime Data, 2008-2016",https://www.kaggle.com/datasets/jboysen/london-crime,kaggle
 social,Melbourne Housing Market,https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market,kaggle
 social,Melbourne Housing Snapshot,https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot,kaggle
+social,Merger and Acquisitions by Tech Companies,https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companies,kaggle
 social,Mobile Device Usage and User Behavior Dataset,https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset,kaggle
 social,Multidimensional Poverty Measures,https://www.kaggle.com/datasets/ophi/mpi,kaggle
+social,New York City Current Job Postings,https://www.kaggle.com/datasets/new-york-city/new-york-city-current-job-postings,kaggle
 social,New York Housing Market,https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market,kaggle
+social,"Oil Pipeline Accidents, 2010-Present",https://www.kaggle.com/datasets/usdot/pipeline-accidents,kaggle
+social,Online Job Postings,https://www.kaggle.com/datasets/madhab/jobposts,kaggle
 social,Philadelphia Crime Data,https://www.kaggle.com/datasets/mchirico/philadelphiacrimedata,kaggle
 social,Population by Country - 2020,https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020,kaggle
 social,Population by labour status - Italy,https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadspopolazionecsv,kaggle
 social,Predict Student Performance,https://www.kaggle.com/datasets/stealthtechnologies/predict-student-performance-dataset,kaggle
 social,Predict students' dropout and academic success,https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention,kaggle
+social,Real /Fake Job Posting Prediction,https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction,kaggle
 social,Restaurant Data with Consumer Ratings,https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings,kaggle
+social,Salary Prediction,https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor,kaggle
 social,Shop Customer Data,https://www.kaggle.com/datasets/datascientistanna/customers-dataset,kaggle
 social,Sloan Digital Sky Survey DR14,https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey,kaggle
 social,social media engagement,https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement,kaggle
@@ -3019,11 +2923,15 @@ social,Telco customer churn: IBM dataset,https://www.kaggle.com/datasets/yeanzc/
 social,Telecom customer,https://www.kaggle.com/datasets/abhinav89/telecom-customer,kaggle
 social,Telecom Customer Churn Prediction,https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics,kaggle
 social,The Marvel Universe Social Network,https://www.kaggle.com/datasets/csanhueza/the-marvel-universe-social-network,kaggle
+social,Traffic Accidents,https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents,kaggle
 social,U.S. Education Datasets: Unification Project,https://www.kaggle.com/datasets/noriuk/us-education-datasets-unification-project,kaggle
 social,U.S. Incomes by Occupation and Gender,https://www.kaggle.com/datasets/jonavery/incomes-by-career-and-gender,kaggle
 social,UCF Crime Dataset,https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset,kaggle
+social,UK Car Accidents 2005-2015,https://www.kaggle.com/datasets/silicon99/dft-accident-data,kaggle
 social,UK Housing Prices Paid,https://www.kaggle.com/datasets/hm-land-registry/uk-housing-prices-paid,kaggle
+social,UK Road Safety: Traffic Accidents and Vehicles,https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles,kaggle
 social,United States Census,https://www.kaggle.com/datasets/census/census-bureau-usa,kaggle
+social,US Accidents (2016 - 2023),https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents,kaggle
 social,US Adult Income,https://www.kaggle.com/datasets/johnolafenwa/us-census-data,kaggle
 social,US Census Demographic Data,https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data,kaggle
 social,US Dept of Education: College Scorecard,https://www.kaggle.com/datasets/kaggle/college-scorecard,kaggle
@@ -3054,6 +2962,7 @@ social,Coordinated Portfolio Investment Survey (CPIS),https://data360.worldbank.
 social,Education Statistics,https://data360.worldbank.org/en/dataset/WB_EDSTATS,worldbank
 social,Employment by economic activity,https://data360.worldbank.org/en/dataset/ILO_EMP,worldbank
 social,"Environment, Social and Governance (ESG)",https://data360.worldbank.org/en/dataset/WB_ESG,worldbank
+social,Equality of Opportunity for Sexual and Gender Minorities (EQOSOGI),https://data360.worldbank.org/en/dataset/WB_EQOSOGI,worldbank
 social,Gender Statistics,https://data360.worldbank.org/en/dataset/WB_GS,worldbank
 social,"Global Housing Watch, House Price-to-Income Ratio Around the World",https://data360.worldbank.org/en/dataset/IMF_GHW,worldbank
 social,Macro Poverty Outlook (MPO),https://data360.worldbank.org/en/dataset/WB_MPO,worldbank
@@ -3079,20 +2988,39 @@ text,forecast-review,https://github.com/fivethirtyeight/data/tree/master/forecas
 text,trump-news,https://github.com/fivethirtyeight/data/tree/master/trump-news,fivethirtyeight
 text,twitter-ratio,https://github.com/fivethirtyeight/data/tree/master/twitter-ratio,fivethirtyeight
 text,(Sunset) Ukraine Conflict Twitter Dataset,https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows,kaggle
+text,"18,393 Pitchfork Reviews",https://www.kaggle.com/datasets/nolanbconaway/pitchfork-data,kaggle
+text,20 Newsgroups,https://www.kaggle.com/datasets/crawford/20-newsgroups,kaggle
+text,515K Hotel Reviews Data in Europe,https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe,kaggle
 text,6.5k train examples for LLM Science Exam,https://www.kaggle.com/datasets/radek1/additional-train-data-for-llm-science-exam,kaggle
+text,60k Stack Overflow Questions with Quality Rating,https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate,kaggle
 text,A Million News Headlines,https://www.kaggle.com/datasets/therohk/million-headlines,kaggle
 text,AI Vs Human Text,https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text,kaggle
 text,All Trump's Twitter insults (2015-2021),https://www.kaggle.com/datasets/ayushggarg/all-trumps-twitter-insults-20152021,kaggle
+text,Amazon Alexa Reviews,https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews,kaggle
+text,Amazon Books Reviews,https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews,kaggle
+text,Amazon Cell Phones Reviews,https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews,kaggle
+text,Amazon Fine Food Reviews,https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews,kaggle
+text,Amazon Musical Instruments Reviews,https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews,kaggle
+text,Amazon Product Reviews,https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews,kaggle
+text,Amazon reviews,https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews,kaggle
 text,Amazon Reviews for Sentiment Analysis,https://www.kaggle.com/datasets/bittlingmayer/amazonreviews,kaggle
+text,Amazon reviews: Kindle Store Category,https://www.kaggle.com/datasets/bharadwaj6/kindle-reviews,kaggle
+text,Amazon Reviews: Unlocked Mobile Phones,https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones,kaggle
 text,American Sign Language Dataset,https://www.kaggle.com/datasets/ayuraj/asl-dataset,kaggle
+text,Animal Crossing Reviews,https://www.kaggle.com/datasets/jessemostipak/animal-crossing,kaggle
+text,Anime Dataset with Reviews - My Anime List,https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews,kaggle
 text,Annotated Corpus for Named Entity Recognition,https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus,kaggle
 text,BBC News Summary,https://www.kaggle.com/datasets/pariza/bbc-news-summary,kaggle
+text,Beer Reviews,https://www.kaggle.com/datasets/rdoume/beerreviews,kaggle
 text,Bible Corpus,https://www.kaggle.com/datasets/oswinrh/bible,kaggle
 text,Blog Authorship Corpus,https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus,kaggle
+text,Board Game Geek Reviews,https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews,kaggle
 text,Book-Crossing: User review ratings,https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset,kaggle
 text,CNN-Daily Mail News Text Summarization,https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail,kaggle
 text,Customer Support on Twitter,https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter,kaggle
 text,Deep-NLP,https://www.kaggle.com/datasets/samdeeplearning/deepnlp,kaggle
+text,Disneyland Reviews,https://www.kaggle.com/datasets/arushchillar/disneyland-reviews,kaggle
+text,Douban Movie Short Comments Dataset,https://www.kaggle.com/datasets/utmhikari/doubanmovieshortcomments,kaggle
 text,Email Spam Classification Dataset CSV,https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv,kaggle
 text,Emoji sentiment,https://www.kaggle.com/datasets/harriken/emoji-sentiment,kaggle
 text,Emotion Detection from Text,https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text,kaggle
@@ -3110,23 +3038,36 @@ text,Hacker News,https://www.kaggle.com/datasets/hacker-news/hacker-news,kaggle
 text,Hacker News Posts,https://www.kaggle.com/datasets/hacker-news/hacker-news-posts,kaggle
 text,Hate Speech and Offensive Language Dataset,https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset,kaggle
 text,"Healthcare NLP: LLMs, Transformers, Datasets",https://www.kaggle.com/datasets/jpmiller/layoutlm,kaggle
+text,Hillary Clinton and Donald Trump Tweets,https://www.kaggle.com/datasets/benhamner/clinton-trump-tweets,kaggle
+text,Hotel Reviews,https://www.kaggle.com/datasets/datafiniti/hotel-reviews,kaggle
 text,How ISIS Uses Twitter,https://www.kaggle.com/datasets/fifthtribe/how-isis-uses-twitter,kaggle
 text,Human vs. LLM Text Corpus,https://www.kaggle.com/datasets/starblasters8/human-vs-llm-text-corpus,kaggle
 text,IMDB dataset (Sentiment analysis) in CSV format,https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format,kaggle
+text,IMDB Dataset of 50K Movie Reviews,https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews,kaggle
 text,India News Headlines Dataset,https://www.kaggle.com/datasets/therohk/india-headlines-news-dataset,kaggle
 text,Irish Times - Waxy-Wany News,https://www.kaggle.com/datasets/therohk/ireland-historical-news,kaggle
 text,Large Sentiment Analysis Bangla Dataset,https://www.kaggle.com/datasets/tahmidmir/largesentimentdata,kaggle
 text,LLM Generated Essays for the Detect AI Comp!,https://www.kaggle.com/datasets/radek1/llm-generated-essays,kaggle
 text,LLM: 7 prompt training dataset,https://www.kaggle.com/datasets/carlmcbrideellis/llm-7-prompt-training-dataset,kaggle
+text,May 2015 Reddit Comments,https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015,kaggle
+text,Mc Donald's Store Reviews,https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews,kaggle
 text,Movie Dialog Corpus,https://www.kaggle.com/datasets/Cornell-University/movie-dialog-corpus,kaggle
+text,New York Times Comments,https://www.kaggle.com/datasets/aashita/nyt-comments,kaggle
 text,News Aggregator Dataset,https://www.kaggle.com/datasets/uciml/news-aggregator-dataset,kaggle
 text,News Category Dataset,https://www.kaggle.com/datasets/rmisra/news-category-dataset,kaggle
 text,News Headlines Dataset For Sarcasm Detection,https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection,kaggle
 text,NEWS SUMMARY,https://www.kaggle.com/datasets/sunnysai12345/news-summary,kaggle
+text,Pfizer Vaccine Tweets,https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets,kaggle
 text,Phishing Email Dataset,https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset,kaggle
+text,Python Questions from Stack Overflow,https://www.kaggle.com/datasets/stackoverflow/pythonquestions,kaggle
+text,Question Pairs Dataset,https://www.kaggle.com/datasets/quora/question-pairs-dataset,kaggle
+text,Question-Answer Dataset,https://www.kaggle.com/datasets/rtatman/questionanswer-dataset,kaggle
+text,Russian Troll Tweets,https://www.kaggle.com/datasets/vikasg/russian-troll-tweets,kaggle
 text,Sentiment Analysis Dataset,https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset,kaggle
 text,Sentiment Labelled Sentences Data Set,https://www.kaggle.com/datasets/marklvl/sentiment-labelled-sentences-data-set,kaggle
 text,Sentiment Lexicons for 81 Languages,https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages,kaggle
+text,Sentiment140 dataset with 1.6 million tweets,https://www.kaggle.com/datasets/kazanova/sentiment140,kaggle
+text,Sephora Products and Skincare Reviews,https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews,kaggle
 text,Sign Language Digits Dataset,https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset,kaggle
 text,Sign Language MNIST,https://www.kaggle.com/datasets/datamunge/sign-language-mnist,kaggle
 text,SMS Spam Collection Dataset,https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset,kaggle
@@ -3134,12 +3075,19 @@ text,Source based Fake News Classification,https://www.kaggle.com/datasets/ruchi
 text,Spam email classification,https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification,kaggle
 text,Spam Mails Dataset,https://www.kaggle.com/datasets/venky73/spam-mails-dataset,kaggle
 text,Spam Text Message Classification,https://www.kaggle.com/datasets/team-ai/spam-text-message-classification,kaggle
+text,Stack Overflow Data,https://www.kaggle.com/datasets/stackoverflow/stackoverflow,kaggle
+text,Stack Sample: 10% of Stack Overflow Q and A,https://www.kaggle.com/datasets/stackoverflow/stacksample,kaggle
 text,Stanford Question Answering Dataset,https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset,kaggle
+text,Steam Store 2024: Hot Picks and Reviews,https://www.kaggle.com/datasets/kanchana1990/steam-store-2024-hot-picks-and-reviews,kaggle
 text,Tamil NLP,https://www.kaggle.com/datasets/sudalairajkumar/tamil-nlp,kaggle
 text,Text Classification based on the BD newspaper,https://www.kaggle.com/datasets/tahmidmir/text-classification-based-on-the-bd-newspaper,kaggle
 text,Text Similarity,https://www.kaggle.com/datasets/rishisankineni/text-similarity,kaggle
 text,TextOCR - Text Extraction from Images Dataset,https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset,kaggle
 text,The Enron Email Dataset,https://www.kaggle.com/datasets/wcukierski/enron-email-dataset,kaggle
+text,Top 100 Bestselling Book Reviews on Amazon,https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews,kaggle
+text,Trip Advisor Hotel Reviews,https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews,kaggle
+text,Trump Tweets,https://www.kaggle.com/datasets/austinreese/trump-tweets,kaggle
+text,Tweets about the Top Companies from 2015 to 2020,https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020,kaggle
 text,Twitter and Reddit Sentimental analysis Dataset,https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset,kaggle
 text,Twitter Edge Nodes,https://www.kaggle.com/datasets/mathurinache/twitter-edge-nodes,kaggle
 text,Twitter Sentiment Analysis,https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech,kaggle
@@ -3148,7 +3096,9 @@ text,Twitter US Airline Sentiment,https://www.kaggle.com/datasets/crowdflower/tw
 text,Twitter User Gender Classification,https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification,kaggle
 text,Ubuntu Dialogue Corpus,https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus,kaggle
 text,Urdu /Hindi News Headlines,https://www.kaggle.com/datasets/adnanzaidi/urdu-news-headlines,kaggle
+text,Wine Reviews,https://www.kaggle.com/datasets/zynicide/wine-reviews,kaggle
 text,WLASL (World Level American Sign Language) Video,https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed,kaggle
+text,Women's E-Commerce Clothing Reviews,https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews,kaggle
 timeseries,Amazon Seller Contact Intent Sequence,https://registry.opendata.aws/amazon-seller-contact-intent-sequence/,aws_open_data
 timeseries,Animal Tracking - Acoustic Telemetry - Quality controlled detections,https://registry.opendata.aws/aodn_animal_acoustic_tracking_delayed_qc/,aws_open_data
 timeseries,ARPA-E PERFORM Forecast data,https://registry.opendata.aws/arpa-e-perform/,aws_open_data
@@ -3169,6 +3119,7 @@ timeseries,forecast-methodology,https://github.com/fivethirtyeight/data/tree/mas
 timeseries,governors-forecast-2018,https://github.com/fivethirtyeight/data/tree/master/governors-forecast-2018,fivethirtyeight
 timeseries,house-forecast-2018,https://github.com/fivethirtyeight/data/tree/master/house-forecast-2018,fivethirtyeight
 timeseries,senate-forecast-2018,https://github.com/fivethirtyeight/data/tree/master/senate-forecast-2018,fivethirtyeight
+timeseries,Air Passengers,https://www.kaggle.com/datasets/rakannimer/air-passengers,kaggle
 timeseries,ATP Tennis 2000 - 2026 Daily update,https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull,kaggle
 timeseries,Body signal of smoking,https://www.kaggle.com/datasets/kukuroo3/body-signal-of-smoking,kaggle
 timeseries,Daily Happiness and Employee Turnover,https://www.kaggle.com/datasets/harriken/employeeturnover,kaggle
@@ -3184,6 +3135,7 @@ timeseries,Movies Daily Update Dataset,https://www.kaggle.com/datasets/akshaypaw
 timeseries,pump_sensor_data,https://www.kaggle.com/datasets/nphantawee/pump-sensor-data,kaggle
 timeseries,Retail Sales Forecasting,https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting,kaggle
 timeseries,S and P 500 Stocks (daily updated),https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks,kaggle
+timeseries,School Student Daily Attendance,https://www.kaggle.com/datasets/sahirmaharajj/school-student-daily-attendance,kaggle
 timeseries,Smoking and Drinking Dataset with body signal,https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset,kaggle
 timeseries,Spotify's Worldwide Daily Song Ranking,https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking,kaggle
 timeseries,Store Sales Time Series Forecasting,https://www.kaggle.com/datasets/hardikgarg03/store-sales-time-series-forecasting,kaggle
@@ -3230,41 +3182,63 @@ vision,USGS 3DEP LiDAR Point Clouds,https://registry.opendata.aws/usgs-lidar/,aw
 vision,Visual Anomaly (VisA),https://registry.opendata.aws/visa/,aws_open_data
 vision,Yale-CMU-Berkeley (YCB) Object and Model Set,https://registry.opendata.aws/ycb-benchmarks/,aws_open_data
 vision,100 Sports Image Classification,https://www.kaggle.com/datasets/gpiosenka/sports-classification,kaggle
+vision,140k Real and Fake Faces,https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces,kaggle
+vision,"200 Bird Species with 11,788 Images",https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images,kaggle
+vision,"300 images of squares, circles, and triangles",https://www.kaggle.com/datasets/cactus3/basicshapes,kaggle
+vision,3D MNIST,https://www.kaggle.com/datasets/daavoo/3d-mnist,kaggle
+vision,5 Celebrity Faces Dataset,https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset,kaggle
 vision,"60,000+ Images of Cars",https://www.kaggle.com/datasets/prondeau/the-car-connection-picture-dataset,kaggle
+vision,A-Z Handwritten Alphabets in.csv format,https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format,kaggle
 vision,Aerial Semantic Segmentation Drone Dataset,https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset,kaggle
 vision,"AGE, GENDER AND ETHNICITY (FACE DATA) CSV",https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv,kaggle
 vision,Animal Crossing: New Horizons,https://www.kaggle.com/datasets/prasertk/animal-crossing-new-horizons-with-image-url,kaggle
+vision,Animal Faces,https://www.kaggle.com/datasets/andrewmvd/animal-faces,kaggle
 vision,Animal Image Dataset (90 Different Animals),https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals,kaggle
 vision,"Animal Image Dataset(DOG, CAT and PANDA)",https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda,kaggle
 vision,Animals Detection Images Dataset,https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset,kaggle
 vision,Anime Face Dataset,https://www.kaggle.com/datasets/splcher/animefacedataset,kaggle
+vision,Anime Faces,https://www.kaggle.com/datasets/soumikrakshit/anime-faces,kaggle
+vision,Arabic Handwritten Characters Dataset,https://www.kaggle.com/datasets/mloey1/ahcd1,kaggle
+vision,Arabic Handwritten Digits Dataset,https://www.kaggle.com/datasets/mloey1/ahdd1,kaggle
+vision,Art Images: Drawing/Painting/Sculptures/Engravings,https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving,kaggle
 vision,Arthropod Taxonomy Orders Object Detection Dataset,https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset,kaggle
+vision,AT and T Database of Faces,https://www.kaggle.com/datasets/kasikrit/att-database-of-faces,kaggle
+vision,Blood Cell Images,https://www.kaggle.com/datasets/paultimothymooney/blood-cells,kaggle
 vision,Bone Fracture Detection: Computer Vision Project,https://www.kaggle.com/datasets/pkdarabi/bone-fracture-detection-computer-vision-project,kaggle
+vision,Breast Histopathology Images,https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images,kaggle
 vision,Breast Ultrasound Images Dataset,https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset,kaggle
 vision,Butterfly and Moths Image Classification 100 species,https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species,kaggle
 vision,Butterfly Image Classification,https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification,kaggle
 vision,Caltech 256 Image Dataset,https://www.kaggle.com/datasets/jessicali9530/caltech256,kaggle
+vision,CAPTCHA Images,https://www.kaggle.com/datasets/fournierp/captcha-version-2-images,kaggle
 vision,Car License Plate Detection,https://www.kaggle.com/datasets/andrewmvd/car-plate-detection,kaggle
 vision,Car Object Detection,https://www.kaggle.com/datasets/sshikamaru/car-object-detection,kaggle
 vision,Cards Image Dataset-Classification,https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification,kaggle
 vision,casting product image data for quality inspection,https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product,kaggle
 vision,Cats and Dogs image classification,https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification,kaggle
 vision,Cattle Weight Detection Model + Dataset (12k),https://www.kaggle.com/datasets/sadhliroomyprime/cattle-weight-detection-model-dataset-12k,kaggle
+vision,Celeb Faces Attributes (CelebA) Dataset,https://www.kaggle.com/datasets/jessicali9530/celeba-dataset,kaggle
 vision,Chest CT-Scan images Dataset,https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images,kaggle
 vision,Chest X-ray Images,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images,kaggle
 vision,Chest X-Ray Images (Pneumonia),https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia,kaggle
 vision,Chest Xray Masks and Labels,https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels,kaggle
+vision,Chinese MNIST,https://www.kaggle.com/datasets/gpreda/chinese-mnist,kaggle
 vision,Cityscapes Image Pairs,https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs,kaggle
 vision,CNC Mill Tool Wear,https://www.kaggle.com/datasets/shasun/tool-wear-detection-in-cnc-mill,kaggle
+vision,Colorectal Histology MNIST,https://www.kaggle.com/datasets/kmader/colorectal-histology-mnist,kaggle
 vision,Construction Site Safety Image Dataset Roboflow,https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow,kaggle
 vision,Corona Hack -Chest X-Ray-Dataset,https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset,kaggle
 vision,Customer Segmentation,https://www.kaggle.com/datasets/vetrirah/customer,kaggle
 vision,Customer Segmentation Classification,https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation,kaggle
 vision,Customer Segmentation Dataset,https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset,kaggle
 vision,Cybersecurity Intrusion Detection Dataset,https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset,kaggle
+vision,deepfake and real images,https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images,kaggle
+vision,Dogs and Cats Images,https://www.kaggle.com/datasets/chetankv/dogs-cats-images,kaggle
 vision,Doom or Animal Crossing? (Image Classification),https://www.kaggle.com/datasets/andrewmvd/doom-crossing,kaggle
 vision,Electrical Fault detection and classification,https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification,kaggle
+vision,EMNIST (Extended MNIST),https://www.kaggle.com/datasets/crawford/emnist,kaggle
 vision,Emotion Detection,https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer,kaggle
+vision,English Handwritten Characters,https://www.kaggle.com/datasets/dhruvildave/english-handwritten-characters-dataset,kaggle
 vision,Face Detection in Images,https://www.kaggle.com/datasets/dataturks/face-detection-in-images,kaggle
 vision,Face expression recognition dataset,https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset,kaggle
 vision,Face Images with Marked Landmark Points,https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points,kaggle
@@ -3275,35 +3249,61 @@ vision,Face Mask Detection Dataset,https://www.kaggle.com/datasets/wobotintellig
 vision,Face Mask Lite Dataset,https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset,kaggle
 vision,Faces: Age Detection from Images,https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset,kaggle
 vision,Facial Emotion Recognition Dataset,https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition,kaggle
+vision,Fashion MNIST,https://www.kaggle.com/datasets/zalando-research/fashionmnist,kaggle
+vision,Fashion Product Images (Small),https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small,kaggle
+vision,Fashion Product Images Dataset,https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset,kaggle
 vision,Flickr Image dataset,https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset,kaggle
+vision,Flickr-Faces-HQ Dataset (FFHQ),https://www.kaggle.com/datasets/arnaud58/flickrfaceshq-dataset-ffhq,kaggle
+vision,Flower Color Images,https://www.kaggle.com/datasets/olgabelitskaya/flower-color-images,kaggle
+vision,Food Images (Food-101),https://www.kaggle.com/datasets/kmader/food41,kaggle
 vision,Fruit Images for Object Detection,https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection,kaggle
 vision,Fruits and Vegetables Image Recognition Dataset,https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition,kaggle
 vision,Glaucoma Detection,https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection,kaggle
 vision,Grapevine Leaves Image Dataset,https://www.kaggle.com/datasets/muratkokludataset/grapevine-leaves-image-dataset,kaggle
 vision,HaGRID - HAnd Gesture Recognition Image Dataset,https://www.kaggle.com/datasets/kapitanov/hagrid,kaggle
+vision,Handwritten math symbols dataset,https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols,kaggle
+vision,handwritten signatures,https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures,kaggle
 vision,Helmet Detection,https://www.kaggle.com/datasets/andrewmvd/helmet-detection,kaggle
 vision,Human Detection Dataset,https://www.kaggle.com/datasets/constantinwerner/human-detection-dataset,kaggle
+vision,Human Faces,https://www.kaggle.com/datasets/ashwingupta3012/human-faces,kaggle
 vision,Image Colorization,https://www.kaggle.com/datasets/shravankumar9892/image-colorization,kaggle
 vision,Image Net 1000 (mini),https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000,kaggle
+vision,Images Dataset,https://www.kaggle.com/datasets/pavansanagapati/images-dataset,kaggle
+vision,Images of LEGO Bricks,https://www.kaggle.com/datasets/joosthazelzet/lego-brick-images,kaggle
+vision,Indian Food Images Dataset,https://www.kaggle.com/datasets/iamsouravbanerjee/indian-food-images-dataset,kaggle
 vision,Intel Image Classification,https://www.kaggle.com/datasets/puneet6060/intel-image-classification,kaggle
+vision,Kuzushiji-MNIST,https://www.kaggle.com/datasets/anokas/kuzushiji,kaggle
+vision,Labelled Faces in the Wild (LFW) Dataset,https://www.kaggle.com/datasets/jessicali9530/lfw-dataset,kaggle
 vision,LFW - People (Face Recognition),https://www.kaggle.com/datasets/atulanandjha/lfwpeople,kaggle
 vision,Liver Tumor Segmentation,https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation,kaggle
+vision,Malaria Cell Images Dataset,https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria,kaggle
 vision,Mall Customer Segmentation Data,https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python,kaggle
 vision,Military Aircraft Detection Dataset,https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset,kaggle
+vision,MNIST as.jpg,https://www.kaggle.com/datasets/scolianni/mnistasjpg,kaggle
+vision,MNIST Dataset,https://www.kaggle.com/datasets/hojjatk/mnist-dataset,kaggle
+vision,MNIST in CSV,https://www.kaggle.com/datasets/oddrationale/mnist-in-csv,kaggle
 vision,"Movies on Netflix, Prime Video, Hulu and Disney+",https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney,kaggle
 vision,MRI and Alzheimers,https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers,kaggle
+vision,Natural Images,https://www.kaggle.com/datasets/prasunroy/natural-images,kaggle
 vision,Network Intrusion Detection,https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection,kaggle
+vision,NumtaDB: Bengali Handwritten Digits,https://www.kaggle.com/datasets/BengaliAI/numta,kaggle
+vision,Open Images,https://www.kaggle.com/datasets/bigquery/open-images,kaggle
 vision,Pet's Facial Expression Image Dataset,https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset,kaggle
 vision,Pistachio Image Dataset,https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset,kaggle
 vision,Pokemon Image Dataset,https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types,kaggle
+vision,Pokemon Images Dataset,https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset,kaggle
 vision,Popular Video Games 1980 - 2023,https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023,kaggle
 vision,Pothole Detection Dataset,https://www.kaggle.com/datasets/atulyakumar98/pothole-detection-dataset,kaggle
 vision,Pulmonary Chest X-Ray Abnormalities,https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities,kaggle
 vision,Random Sample of NIH Chest X-ray Dataset,https://www.kaggle.com/datasets/nih-chest-xrays/sample,kaggle
 vision,Real and Fake Face Detection,https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection,kaggle
+vision,Retinal OCT Images (optical coherence tomography),https://www.kaggle.com/datasets/paultimothymooney/kermany2018,kaggle
 vision,Rice Diseases Image Dataset,https://www.kaggle.com/datasets/minhhuy2810/rice-diseases-image-dataset,kaggle
 vision,Rice Image Dataset,https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset,kaggle
 vision,Road Sign Detection,https://www.kaggle.com/datasets/andrewmvd/road-sign-detection,kaggle
+vision,Road Vehicle Images Dataset,https://www.kaggle.com/datasets/ashfakyeafi/road-vehicle-images-dataset,kaggle
+vision,Rock-Paper-Scissors Images,https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors,kaggle
+vision,"RSNA Mammo PNGs 256px, 384px, 512px, 768px, 1024px",https://www.kaggle.com/datasets/radek1/rsna-mammography-images-as-pngs,kaggle
 vision,Safety Helmet Detection,https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection,kaggle
 vision,SARS-COV-2 Ct-Scan Dataset,https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset,kaggle
 vision,Semantic segmentation of aerial imagery,https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery,kaggle

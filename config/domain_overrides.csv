@@ -1084,7 +1084,7 @@ https://www.kaggle.com/datasets/bank-of-england/a-millennium-of-macroeconomic-da
 https://www.kaggle.com/datasets/therohk/million-headlines,text,A Million News Headlines,kaggle
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format,others,A-Z Handwritten Alphabets in.csv format,kaggle
 https://www.kaggle.com/datasets/sergylog/ab-test-data,others,A/B test data,kaggle
-https://www.kaggle.com/datasets/abhishek/aaamlp,others,AAAMLP,kaggle
+https://www.kaggle.com/datasets/abhishek/aaamlp,ml,AAAMLP,kaggle
 https://www.kaggle.com/datasets/aalborguniversity/aau-rainsnow,environment,AAU Rain Snow Traffic Surveillance Dataset,kaggle
 https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset,others,Abalone Dataset,kaggle
 https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsabortioncsv,public,Abortion Statistics,kaggle
@@ -1109,7 +1109,7 @@ https://www.kaggle.com/datasets/atharvasoundankar/ai-developer-productivity-data
 https://www.kaggle.com/datasets/khushikyad001/ai-impact-on-jobs-2030,others,AI Impact on Jobs 2030,kaggle
 https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text,text,AI Vs Human Text,kaggle
 https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights,others,AI-Powered Job Market Insights,kaggle
-https://www.kaggle.com/datasets/rakannimer/air-passengers,others,Air Passengers,kaggle
+https://www.kaggle.com/datasets/rakannimer/air-passengers,timeseries,Air Passengers,kaggle
 https://www.kaggle.com/datasets/bappekim/air-pollution-in-seoul,environment,Air Pollution in Seoul,kaggle
 https://www.kaggle.com/datasets/uciml/aps-failure-at-scania-trucks-data-set,others,Air pressure system failures in Scania trucks,kaggle
 https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment,environment,Air Quality and Pollution Assessment,kaggle
@@ -2199,7 +2199,7 @@ https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign,others,Marketing C
 https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist,others,Marketing Funnel by Olist,kaggle
 https://www.kaggle.com/datasets/deepcontractor/marvel-comic-books,others,Marvel Comic Books Dataset,kaggle
 https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data,health,Maternal Health Risk Data,kaggle
-https://www.kaggle.com/datasets/open-benchmarks/math-500-measuring-mathematical-problem-solving,others,MATH 500: Measuring Mathematical Problem Solving,kaggle
+https://www.kaggle.com/datasets/open-benchmarks/math-500-measuring-mathematical-problem-solving,competition,MATH 500: Measuring Mathematical Problem Solving,kaggle
 https://www.kaggle.com/datasets/janiobachmann/math-students,others,Math Students,kaggle
 https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015,others,May 2015 Reddit Comments,kaggle
 https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts,others,Mc Donald's India: Menu Nutrition Dataset,kaggle
@@ -2548,7 +2548,7 @@ https://www.kaggle.com/datasets/jamzing/sars-coronavirus-accession,others,SARS C
 https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset,vision,SARS-COV-2 Ct-Scan Dataset,kaggle
 https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification,environment,Satellite Image Classification,kaggle
 https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies,environment,Satellite Images of Water Bodies,kaggle
-https://www.kaggle.com/datasets/open-benchmarks/scicode,others,Sci Code,kaggle
+https://www.kaggle.com/datasets/open-benchmarks/scicode,competition,Sci Code,kaggle
 https://www.kaggle.com/datasets/melissamonfared/scrabble-games,others,Scrabble Games,kaggle
 https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste,environment,Sea Animals Image Dataset,kaggle
 https://www.kaggle.com/datasets/eliasdabbas/search-engine-results-flights-tickets-keywords,others,Search Engine Results - Flights and Tickets Keywords,kaggle
