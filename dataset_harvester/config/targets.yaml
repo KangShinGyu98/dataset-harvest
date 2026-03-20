@@ -1,0 +1,39 @@
+targets:
+  - source: ourworldindata
+    kind: owid_explorers
+    url: https://ourworldindata.org/explorers
+  - source: ourworldindata
+    kind: owid_topics
+    url: https://ourworldindata.org/#all-topics
+  - source: fivethirtyeight
+    kind: csv_index
+    url: https://raw.githubusercontent.com/fivethirtyeight/data/master/index.csv
+  - source: kaggle
+    kind: kaggle_datasets
+    url: https://www.kaggle.com/datasets?sort=votes
+    pages: 100
+  - source: uci
+    kind: uci_datasets
+    url: https://archive.ics.uci.edu/datasets?skip=0&take=25&sort=desc&orderBy=NumHits&search=
+  - source: openml
+    kind: openml_datasets
+    url: https://www.openml.org/search?type=data&sort=runs&status=active
+  - source: aws_open_data
+    kind: aws_registry
+    url: https://registry.opendata.aws/
+  - source: worldbank
+    kind: worldbank_data360
+    url: https://data360.worldbank.org/en/search
+  - source: wsdm
+    kind: conference_links
+    url: https://wsdm-conference.org/2026/
+  - source: drivendata
+    kind: drivendata_competitions
+    url: https://www.drivendata.org/competitions/#completed
+  - source: kaggle
+    kind: kaggle_competitions
+    url: https://www.kaggle.com/competitions?page=1
+    pages: 1
+  - source: zindi
+    kind: zindi_competitions
+    url: https://zindi.africa/competitions
