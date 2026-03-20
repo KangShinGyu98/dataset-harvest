@@ -22,7 +22,7 @@
 - [데이터 소스](#데이터-소스)
 - [빠른 시작](#빠른-시작)
 - [.env 설정](#env-설정)
-- [결과물-Domain별](#결과물-Domain별)
+- [결과물 Domain별 총3341개](#결과물-domain별-총3341개)
 
 ---
 
@@ -66,6 +66,7 @@ dataset-harvester/
 ## 빠른 시작
 
 ```bash
+# 직접 실행하지 마시고 output 폴더에 csv 파일을 다운로드 받으시기를 권장드립니다.
 # 1. 가상환경 생성 및 활성화
 python -m venv .venv
 source .venv/bin/activate          # Windows Git Bash: source .venv/Scripts/activate
@@ -113,7 +114,7 @@ Kaggle 키는 환경변수 대신 `~/.kaggle/kaggle.json`에 넣어도 됩니다
 Kaggle 인증 정보가 없으면 수집이 오류와 함께 종료됩니다. `--allow-partial`을 사용하면 Kaggle만 건너뛰고 나머지 소스는 계속 수집합니다.
 
 ---
-## 결과물-Domain별
+## 결과물 Domain별 총3341개
 
 ### others (총 911개)
 
